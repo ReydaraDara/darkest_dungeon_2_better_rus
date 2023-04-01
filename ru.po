@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-01 06:34+0400\n"
+"PO-Revision-Date: 2023-04-01 06:57+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -57,7 +57,7 @@ msgstr ""
 "+ Любая позиция\n"
 "+ Большой урон\n"
 "+ Разносторонность\n"
-"+ Отражение"
+"+ Парирование"
 
 msgctxt "actor_descriptors_jester"
 msgid ""
@@ -93,7 +93,7 @@ msgstr ""
 "+ Передняя позиция\n"
 "+ Защита\n"
 "+ Выносливость\n"
-"+ Отражение"
+"+ Парирование"
 
 msgctxt "actor_descriptors_occultist"
 msgid ""
@@ -319,7 +319,7 @@ msgstr "<color=#{debuff}>длит. получ.</color> <sprite name={q}icon_burn
 
 msgctxt "actor_stat_type_food_eat"
 msgid "Food Consumed"
-msgstr "съед. провизии"
+msgstr "Еды съедено"
 
 msgctxt "actor_stat_type_formatted_affinity_relationship_tag_chance_modifier_negative"
 msgid "{0} Negative Relationship Chance"
@@ -26263,7 +26263,7 @@ msgstr "Начать новое путешествие"
 
 msgctxt "game_over_reason_abandon"
 msgid "A broken will carries no hope of success."
-msgstr "В сломленной воле нет надежды на успех."
+msgstr "Сломленный не передаст надежды на успех."
 
 msgctxt "game_over_reason_debug"
 msgid "Instant gratification with a debug button."
@@ -26273,12 +26273,9 @@ msgctxt "game_over_reason_party_dead"
 msgid "You were right to fear the world..."
 msgstr "Вы были правы, что боялись этого мира..."
 
-#, fuzzy
-#| msgctxt "game_over_reason_party_insane"
-#| msgid "The mind is a fragile thing. Easily distracted from it's goal."
 msgctxt "game_over_reason_party_insane"
 msgid "The mind is a fragile thing. Easily distracted from its goal."
-msgstr "Разум хрупок и легко отклоняется от цели."
+msgstr "Разум - хрупкая вещь. Легко отвлекается от цели."
 
 msgctxt "game_over_reason_victory"
 msgid "A Glimmer of Hope!"
@@ -26340,7 +26337,7 @@ msgstr "<sprite name={q}icon_candle_glyph{q}><color=#{stat_buff}>+{0} в наг
 
 msgctxt "grave_robber"
 msgid "Grave Robber"
-msgstr "Расхитчица"
+msgstr "Расхитительница могил"
 
 msgctxt "grave_robber_corpse"
 msgid "Corpse"
@@ -33399,7 +33396,7 @@ msgstr "Члену группы ещё можно добавить навыки.
 
 msgctxt "hero_select_grave_robber"
 msgid "<sup><size=90%>The</size></sup> Grave Robber"
-msgstr "<sup><size=90%></size></sup>Расхитчица"
+msgstr "<sup><size=90%></size></sup>Расхитительница могил"
 
 msgctxt "hero_select_hellion"
 msgid "<sup><size=90%>The</size></sup> Hellion"
@@ -33445,7 +33442,7 @@ msgstr "<color=#{item_discardline}>Герой следует этому пути
 
 msgctxt "hero_select_plague_doctor"
 msgid "<sup><size=90%>The</size></sup> Plague Doctor"
-msgstr "<sup><size=90%></size></sup>Чумница"
+msgstr "<sup><size=90%></size></sup>Чумной доктор"
 
 msgctxt "hero_select_runaway"
 msgid "<sup><size=90%>The</size></sup> Runaway"
@@ -33722,7 +33719,7 @@ msgstr "Очки закалки используются в трактире д
 
 msgctxt "herostory_gr_combat_1"
 msgid "Grave Robber"
-msgstr "Расхитчица"
+msgstr "Расхитительница могил"
 
 msgctxt "herostory_gr_combat_1_husband"
 msgid "Enraged Husband"
@@ -33746,7 +33743,7 @@ msgstr "Ваза"
 
 msgctxt "herostory_gr_combat_2"
 msgid "Grave Robber"
-msgstr "Расхитчица"
+msgstr "Расхитительница могил"
 
 msgctxt "herostory_gr_combat_2_coffin_guard"
 msgid "Coffin"
@@ -33974,7 +33971,7 @@ msgstr "Тьманник"
 
 msgctxt "herostory_pd_combat_1"
 msgid "Plague Doctor"
-msgstr "Чумница"
+msgstr "Чумной доктор"
 
 msgctxt "herostory_pd_combat_1_bookstack"
 msgid "Books"
@@ -33994,7 +33991,7 @@ msgstr "Студенты"
 
 msgctxt "herostory_pd_combat_2"
 msgid "Plague Doctor"
-msgstr "Чумница"
+msgstr "Чумной доктор"
 
 msgctxt "herostory_pd_combat_2_apparatus"
 msgid "Apparatus"
@@ -42001,7 +41998,7 @@ msgstr "12"
 
 msgctxt "plague_doctor"
 msgid "Plague Doctor"
-msgstr "Чумница"
+msgstr "Чумной доктор"
 
 msgctxt "plague_doctor_corpse"
 msgid "Corpse"
@@ -42283,7 +42280,7 @@ msgstr "<color=#{damage}>${value}</color>"
 
 msgctxt "pop_text_health_damage_riposte"
 msgid "<color=#{damage}>Riposte! ${value}</color>"
-msgstr "<color=#{damage}>Отражение! ${value}</color>"
+msgstr "<color=#{damage}>Парирование! ${value}</color>"
 
 msgctxt "pop_text_health_heal"
 msgid "<color=#{heal}>${value}</color>"
@@ -48869,7 +48866,7 @@ msgstr "Горящие чётки"
 
 msgctxt "skill_name_blind_shaman_ignited_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 #, fuzzy
 #| msgctxt "hero_name@134"
@@ -49280,12 +49277,9 @@ msgctxt "skill_name_exemplar_rapturous_beauty"
 msgid "Rapturous Beauty"
 msgstr "Благоговейная красота"
 
-#, fuzzy
-#| msgctxt "skill_name_blind_shaman_ignited_riposte"
-#| msgid "Riposte"
 msgctxt "skill_name_exemplar_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 #, fuzzy
 #| msgctxt "biome_name_Valley"
@@ -49429,7 +49423,7 @@ msgstr "Раскалённый выпад"
 
 msgctxt "skill_name_flayer_ignited_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_flayer_move_up"
 msgid "Advance Lunge"
@@ -49437,7 +49431,7 @@ msgstr "Выпад вперёд"
 
 msgctxt "skill_name_flayer_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_flayer_slash"
 msgid "Slash"
@@ -50218,7 +50212,7 @@ msgstr "Выстрел в упор<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_hwm_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_hwm_sword_breaker"
 msgid "Sword Breaker"
@@ -50546,7 +50540,7 @@ msgstr "Защищайтесь!"
 
 msgctxt "skill_name_knight_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_lady_be_our_guest"
 msgid "Be Our Guest"
@@ -50839,7 +50833,7 @@ msgstr "Владыка тьмы"
 
 msgctxt "skill_name_livestock_b_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_livestock_battering_ram"
 msgid "Battering Ram"
@@ -50859,7 +50853,7 @@ msgstr "Удар головой"
 
 msgctxt "skill_name_livestock_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_lord_baneful_breath"
 msgid "Baneful Breath"
@@ -51085,7 +51079,7 @@ msgstr "Час расплаты<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_maa_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_maa_stand_fast"
 msgid "Stand Fast"
@@ -51580,12 +51574,9 @@ msgctxt "skill_name_pillager_mongrel_howl"
 msgid "Watchdog"
 msgstr "Сторожевой пёс"
 
-#, fuzzy
-#| msgctxt "skill_name_blind_shaman_ignited_riposte"
-#| msgid "Riposte"
 msgctxt "skill_name_pillager_mongrel_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_pillager_ranged_crack_shot"
 msgid "Blister Shot"
@@ -51867,7 +51858,7 @@ msgstr "Покаяние"
 
 msgctxt "skill_name_spearing_reaver_ignited_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "skill_name_spearing_reaver_transfixion"
 msgid "Transfixion"
@@ -52552,12 +52543,9 @@ msgctxt "skill_tag_bulwark"
 msgid "Shield Attack"
 msgstr "Атака щитом"
 
-#, fuzzy
-#| msgctxt "skill_name_blind_shaman_ignited_riposte"
-#| msgid "Riposte"
 msgctxt "skill_tag_bulwark_down"
 msgid "Crush & Riposte"
-msgstr "Сокрушение и отражение"
+msgstr "Сокрушение & Парирование"
 
 #, fuzzy
 #| msgctxt "skill_name_maa_stand_fast"
@@ -52858,12 +52846,9 @@ msgctxt "skill_tag_ranged"
 msgid "Ranged"
 msgstr "Дальний бой"
 
-#, fuzzy
-#| msgctxt "skill_name_blind_shaman_ignited_riposte"
-#| msgid "Riposte"
 msgctxt "skill_tag_riposte"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 #, fuzzy
 #| msgctxt "hero_name@199"
@@ -61168,12 +61153,9 @@ msgctxt "story_icon_description_icon_story_token_rangeup_Preview"
 msgid "Range Up"
 msgstr "Больше дальн."
 
-#, fuzzy
-#| msgctxt "skill_name_blind_shaman_ignited_riposte"
-#| msgid "Riposte"
 msgctxt "story_icon_description_icon_story_token_riposte_Preview"
 msgid "Riposte"
-msgstr "Отражение"
+msgstr "Парирование"
 
 msgctxt "story_icon_description_icon_story_token_speed_Preview"
 msgid "Speed"
@@ -62640,7 +62622,7 @@ msgstr "<color=#{notable}>В огне</color>"
 
 msgctxt "token_name_flaming_furniture_riposte"
 msgid "Flaming Furniture Riposte"
-msgstr "Отражение мебели в огне"
+msgstr "Парирование мебели в огне"
 
 msgctxt "token_name_food"
 msgid "<color=#{notable}>Fodder</color>"
@@ -62786,15 +62768,15 @@ msgstr "<color=#{debuff}>Ремонт</color>"
 
 msgctxt "token_name_riposte"
 msgid "<color=#{buff}>Riposte</color>"
-msgstr "<color=#{buff}>Отражение</color>"
+msgstr "<color=#{buff}>Парирование</color>"
 
 msgctxt "token_name_riposte_invisible"
 msgid "Riposte (Invisible)"
-msgstr "Отражение (невидимость)"
+msgstr "Парирование(невидимость)"
 
 msgctxt "token_name_riposte_invisible_infinite"
 msgid "Riposte (Invisible, Infinite)"
-msgstr "Отражение (невидимость, бесконечность)"
+msgstr "Парирование(невидимость, бесконечность)"
 
 msgctxt "token_name_runaway_combat_1_key"
 msgid "<color=#{notable}>Gate Key</color>"
@@ -62924,23 +62906,23 @@ msgstr "<color=#{notable}>Любопытное занятие</color>"
 
 msgctxt "token_name_violinist_riposte_bridge"
 msgid "Riposte: Bridge"
-msgstr "Отражение. Проигрыш"
+msgstr "Парирование: Проигрыш"
 
 msgctxt "token_name_violinist_riposte_chorus"
 msgid "Riposte: Chorus"
-msgstr "Отражение. Припев"
+msgstr "Парирование: Припев"
 
 msgctxt "token_name_violinist_riposte_finale"
 msgid "Riposte: Finale"
-msgstr "Отражение. Заключительный аккорд"
+msgstr "Парирование: Финал"
 
 msgctxt "token_name_violinist_riposte_solo"
 msgid "Riposte: Solo"
-msgstr "Отражение. Сольная партия"
+msgstr "Парирование: Соло"
 
 msgctxt "token_name_violinist_riposte_verse"
 msgid "Riposte: Verse"
-msgstr "Отражение. Куплет"
+msgstr "Парирование: Куплет"
 
 msgctxt "token_name_vulnerable"
 msgid "<color=#{debuff}>Vulnerable</color>"
@@ -63045,7 +63027,7 @@ msgstr "Counters a non-damaging attack; if you can see me, file a bug"
 
 msgctxt "token_riposte_invisible_infinite"
 msgid "Riposte (Invisible, Infinite)"
-msgstr "Отражение (невидимость, бесконечность)"
+msgstr "Парирование (невидимость, бесконечность)"
 
 msgctxt "token_riposte_invisible_infinite_description"
 msgid "Counters a non-damaging attack; if you can see me, file a bug"
@@ -65085,18 +65067,15 @@ msgstr "Разбитые дороги"
 
 msgctxt "tutorial_t504_description"
 msgid "Driving through an oblivion tear will increase loathing <sprite name={q}icon_doom{q}> by one point."
-msgstr "Если проехать по слезам забвения, Омерзение <sprite name={q}icon_doom{q}> усилится на одно очко."
+msgstr "Поездка через разрывы забвения повысит омерзение <sprite name={q}icon_doom{q}> на одно очко."
 
 msgctxt "tutorial_t504_texture"
 msgid "t504"
 msgstr "t504"
 
-#, fuzzy
-#| msgctxt "node_interaction_guardian_label"
-#| msgid "Oblivion's Rampart"
 msgctxt "tutorial_t504_title"
 msgid "Oblivion Tears"
-msgstr "Слёзы забвения"
+msgstr "Разрывы забвения"
 
 msgctxt "tutorial_t505_description"
 msgid ""
@@ -70344,7 +70323,7 @@ msgid ""
 "Grave Robber\n"
 "Chapter One: Luxury's Lap"
 msgstr ""
-"Расхитчица\n"
+"Расхитительница могил\n"
 "Глава первая. Круг роскоши"
 
 msgctxt "vo_hero_story_grave_robber_ch1_text_0"
@@ -71127,7 +71106,7 @@ msgid ""
 "Plague Doctor\n"
 "Chapter One: The Good Student"
 msgstr ""
-"Чумница\n"
+"Чумной доктор\n"
 "Глава первая. Прилежная студентка"
 
 msgctxt "vo_hero_story_plague_doctor_ch1_text_0"
