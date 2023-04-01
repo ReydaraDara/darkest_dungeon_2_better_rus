@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-01 06:57+0400\n"
+"PO-Revision-Date: 2023-04-01 07:51+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -33,7 +33,7 @@ msgstr ""
 "+ Любая позиция\n"
 "+ Скрытность\n"
 "+ Уклонение\n"
-"+ Большой крит"
+"+ Большой КРИТ"
 
 msgctxt "actor_descriptors_hellion"
 msgid ""
@@ -154,19 +154,13 @@ msgctxt "actor_resolve_is_tested_label"
 msgid "{0}'s resolve is tested..."
 msgstr "{0} проходит проверку на решимость..."
 
-#, fuzzy
-#| msgctxt "pop_text_retreat_fail"
-#| msgid "<color=#{harmful}>Retreat Failed!</color>"
 msgctxt "actor_stat_type_affinity_tick_trigger_negative_chance_multiplier"
 msgid "<color=#{harmful}>Negative</color> Banter"
-msgstr "<color=#{harmful}>отриц.</color> реплик"
+msgstr "<color=#{harmful}>Негативные</color> реплики"
 
-#, fuzzy
-#| msgctxt "token_name_stealth"
-#| msgid "<color=#{notable}>Stealth</color>"
 msgctxt "actor_stat_type_affinity_tick_trigger_positive_chance_multiplier"
 msgid "<color=#{notable}>Positive</color> Banter"
-msgstr "<color=#{notable}>полож.</color> реплик"
+msgstr "{0} <color=#{notable}>Положительные</color> реплики"
 
 #, fuzzy
 #| msgctxt "actor_stat_type_battle_modifier_chance"
@@ -177,145 +171,79 @@ msgstr "шанса преим. врага"
 
 msgctxt "actor_stat_type_crit_chance"
 msgid "CRIT"
-msgstr "КРТ"
+msgstr "КРИТ"
 
-#, fuzzy
-#| msgctxt "dot_bleed_amount"
-#| msgid "<color=#{bleed}><sprite name={q}icon_bleed{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_dealt_change_bleed"
 msgid "<sprite name={q}icon_bleed{q}><color=#{buff}>Dealt</color>"
-msgstr "<color=#{buff}>нанос.</color> <sprite name={q}icon_bleed{q}>"
+msgstr "<color=#{buff}>Наносит</color> <sprite name={q}icon_bleed{q}>"
 
-#, fuzzy
-#| msgctxt "dot_blight_amount"
-#| msgid "<color=#{blight}><sprite name={q}icon_blight{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_dealt_change_blight"
 msgid "<sprite name={q}icon_blight{q}><color=#{buff}>Dealt</color>"
-msgstr "<color=#{buff}>нанос.</color> <sprite name={q}icon_blight{q}>"
+msgstr "<color=#{buff}>Наносит</color> <sprite name={q}icon_blight{q}>"
 
-#, fuzzy
-#| msgctxt "dot_burn_amount"
-#| msgid "<color=#{burn}><sprite name={q}icon_burn{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_dealt_change_burn"
 msgid "<sprite name={q}icon_burn{q}><color=#{buff}>Dealt</color>"
-msgstr "<color=#{buff}>нанос.</color> <sprite name={q}icon_burn{q}>"
+msgstr "<color=#{buff}>Наносит</color> <sprite name={q}icon_burn{q}>"
 
-#, fuzzy
-#| msgctxt "dot_bleed_amount"
-#| msgid "<color=#{bleed}><sprite name={q}icon_bleed{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_dealt_multiplier_bleed"
 msgid "<sprite name={q}icon_bleed{q}><color=#{buff}>Dealt</color>"
-msgstr "<color=#{buff}>нанос.</color> <sprite name={q}icon_bleed{q}>"
+msgstr "<color=#{buff}>Наносит</color> <sprite name={q}icon_bleed{q}>"
 
-#, fuzzy
-#| msgctxt "dot_blight_amount"
-#| msgid "<color=#{blight}><sprite name={q}icon_blight{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_dealt_multiplier_blight"
 msgid "<sprite name={q}icon_blight{q}><color=#{buff}>Dealt</color>"
-msgstr "<color=#{buff}>нанос.</color> <sprite name={q}icon_blight{q}>"
+msgstr "<color=#{buff}>Наносит</color> <sprite name={q}icon_blight{q}>"
 
-#, fuzzy
-#| msgctxt "dot_burn_amount"
-#| msgid "<color=#{burn}><sprite name={q}icon_burn{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_dealt_multiplier_burn"
 msgid "<sprite name={q}icon_burn{q}><color=#{buff}>Dealt</color>"
-msgstr "<color=#{buff}>нанос.</color> <sprite name={q}icon_burn{q}>"
+msgstr "<color=#{buff}>Наносит</color> <sprite name={q}icon_burn{q}>"
 
-#, fuzzy
-#| msgctxt "dot_bleed_amount"
-#| msgid "<color=#{bleed}><sprite name={q}icon_bleed{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_received_change_bleed"
 msgid "<sprite name={q}icon_bleed{q}><color=#{debuff}>Received</color>"
-msgstr "<color=#{debuff}>получ.</color> <sprite name={q}icon_bleed{q}>"
+msgstr "<color=#{debuff}>Получает</color> <sprite name={q}icon_bleed{q}>"
 
-#, fuzzy
-#| msgctxt "dot_blight_amount"
-#| msgid "<color=#{blight}><sprite name={q}icon_blight{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_received_change_blight"
 msgid "<sprite name={q}icon_blight{q}><color=#{debuff}>Received</color>"
-msgstr "<color=#{debuff}>получ.</color> <sprite name={q}icon_blight{q}>"
+msgstr "<color=#{debuff}>Получает</color> <sprite name={q}icon_blight{q}>"
 
-#, fuzzy
-#| msgctxt "dot_burn_amount"
-#| msgid "<color=#{burn}><sprite name={q}icon_burn{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_received_change_burn"
 msgid "<sprite name={q}icon_burn{q}><color=#{debuff}>Received</color>"
-msgstr "<color=#{debuff}>получ.</color> <sprite name={q}icon_burn{q}>"
+msgstr "<color=#{debuff}>Получает</color> <sprite name={q}icon_burn{q}>"
 
-#, fuzzy
-#| msgctxt "dot_bleed_amount"
-#| msgid "<color=#{bleed}><sprite name={q}icon_bleed{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_received_multiplier_bleed"
 msgid "<sprite name={q}icon_bleed{q}><color=#{debuff}>Received</color>"
-msgstr "<color=#{debuff}>получ.</color> <sprite name={q}icon_bleed{q}>"
+msgstr "<color=#{debuff}>Получает</color> <sprite name={q}icon_bleed{q}>"
 
-#, fuzzy
-#| msgctxt "dot_blight_amount"
-#| msgid "<color=#{blight}><sprite name={q}icon_blight{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_received_multiplier_blight"
 msgid "<sprite name={q}icon_blight{q}><color=#{debuff}>Received</color>"
-msgstr "<color=#{debuff}>получ.</color> <sprite name={q}icon_blight{q}>"
+msgstr "<color=#{debuff}>Получает</color> <sprite name={q}icon_blight{q}>"
 
-#, fuzzy
-#| msgctxt "dot_burn_amount"
-#| msgid "<color=#{burn}><sprite name={q}icon_burn{q}> {0}</color>"
 msgctxt "actor_stat_type_dot_effect_value_received_multiplier_burn"
 msgid "<sprite name={q}icon_burn{q}><color=#{debuff}>Received</color>"
-msgstr "<color=#{debuff}>получ.</color> <sprite name={q}icon_burn{q}>"
+msgstr "<color=#{debuff}>Получает</color> <sprite name={q}icon_burn{q}>"
 
-#, fuzzy
-#| msgctxt "item_description_whiskey_flask"
-#| msgid ""
-#| "-2 Stress\n"
-#| "<color=#{stat_reg}>BLOCKED BY: Resolution</color>"
 msgctxt "actor_stat_type_dot_extra_duration_dealt_bleed"
 msgid "<sprite name={q}icon_bleed{q}><color=#{buff}>Duration Dealt</color>"
-msgstr "<color=#{buff}>длит. нанос.</color> <sprite name={q}icon_bleed{q}>"
+msgstr "<color=#{buff}>Длительность нанесения</color> <sprite name={q}icon_bleed{q}>"
 
-#, fuzzy
-#| msgctxt "item_description_whiskey_flask"
-#| msgid ""
-#| "-2 Stress\n"
-#| "<color=#{stat_reg}>BLOCKED BY: Resolution</color>"
 msgctxt "actor_stat_type_dot_extra_duration_dealt_blight"
 msgid "<sprite name={q}icon_blight{q}><color=#{buff}>Duration Dealt</color>"
-msgstr "<color=#{buff}>длит. нанос.</color> <sprite name={q}icon_blight{q}>"
+msgstr "<color=#{buff}>Длительность нанесения</color> <sprite name={q}icon_blight{q}>"
 
-#, fuzzy
-#| msgctxt "item_description_whiskey_flask"
-#| msgid ""
-#| "-2 Stress\n"
-#| "<color=#{stat_reg}>BLOCKED BY: Resolution</color>"
 msgctxt "actor_stat_type_dot_extra_duration_dealt_burn"
 msgid "<sprite name={q}icon_burn{q}><color=#{buff}>Duration Dealt</color>"
-msgstr "<color=#{buff}>длит. нанос.</color> <sprite name={q}icon_burn{q}>"
+msgstr "<color=#{buff}>Длительность нанесения</color> <sprite name={q}icon_burn{q}>"
 
-#, fuzzy
-#| msgctxt "item_description_whiskey_flask"
-#| msgid ""
-#| "-2 Stress\n"
-#| "<color=#{stat_reg}>BLOCKED BY: Resolution</color>"
 msgctxt "actor_stat_type_dot_extra_duration_received_bleed"
 msgid "<sprite name={q}icon_bleed{q}><color=#{debuff}>Duration Received</color>"
-msgstr "<color=#{debuff}>длит. получ.</color> <sprite name={q}icon_bleed{q}>"
+msgstr "<color=#{debuff}>Длительность нанесения</color> <sprite name={q}icon_bleed{q}>"
 
-#, fuzzy
-#| msgctxt "item_description_whiskey_flask"
-#| msgid ""
-#| "-2 Stress\n"
-#| "<color=#{stat_reg}>BLOCKED BY: Resolution</color>"
 msgctxt "actor_stat_type_dot_extra_duration_received_blight"
 msgid "<sprite name={q}icon_blight{q}><color=#{debuff}>Duration Received</color>"
-msgstr "<color=#{debuff}>длит. получ.</color> <sprite name={q}icon_blight{q}>"
+msgstr "<color=#{debuff}>Длительность нанесения</color> <sprite name={q}icon_blight{q}>"
 
-#, fuzzy
-#| msgctxt "item_description_whiskey_flask"
-#| msgid ""
-#| "-2 Stress\n"
-#| "<color=#{stat_reg}>BLOCKED BY: Resolution</color>"
 msgctxt "actor_stat_type_dot_extra_duration_received_burn"
 msgid "<sprite name={q}icon_burn{q}><color=#{debuff}>Duration Received</color>"
-msgstr "<color=#{debuff}>длит. получ.</color> <sprite name={q}icon_burn{q}>"
+msgstr "<color=#{debuff}>Длительность нанесения</color> <sprite name={q}icon_burn{q}>"
 
 msgctxt "actor_stat_type_food_eat"
 msgid "Food Consumed"
@@ -323,42 +251,27 @@ msgstr "Еды съедено"
 
 msgctxt "actor_stat_type_formatted_affinity_relationship_tag_chance_modifier_negative"
 msgid "{0} Negative Relationship Chance"
-msgstr "{0} шанса ухудш. отношения"
+msgstr "{0} Шанс ухудшения отношений"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_health_heal_received_percent_food"
-#| msgid "Passive Healing Rate"
 msgctxt "actor_stat_type_formatted_affinity_relationship_tag_chance_modifier_positive"
 msgid "{0} Positive Relationship Chance"
-msgstr "{0} шанса улучш. отношения"
+msgstr "{0} Шанс улучшения отношений"
 
-#, fuzzy
-#| msgctxt "pop_text_retreat_fail"
-#| msgid "<color=#{harmful}>Retreat Failed!</color>"
 msgctxt "actor_stat_type_formatted_affinity_tick_trigger_negative_chance_multiplier"
 msgid "{0} <color=#{harmful}>Negative</color> Banter"
-msgstr "{0} <color=#{harmful}>отриц.</color> реплик"
+msgstr "{0} <color=#{harmful}>Негативные</color> реплики"
 
-#, fuzzy
-#| msgctxt "token_name_stealth"
-#| msgid "<color=#{notable}>Stealth</color>"
 msgctxt "actor_stat_type_formatted_affinity_tick_trigger_positive_chance_multiplier"
 msgid "{0} <color=#{notable}>Positive</color> Banter"
-msgstr "{0} <color=#{notable}>полож.</color> реплик"
+msgstr "{0} <color=#{notable}>Положительные</color> реплики"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_battle_modifier_chance"
-#| msgid "Enemy Battle Advantage Chance"
 msgctxt "actor_stat_type_formatted_battle_modifier_chance"
 msgid "{0} Enemy Advantage Chance"
-msgstr "{0} шанса преим. врага"
+msgstr "{0} Шанс преимущества врага"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_crit_chance"
-#| msgid "CRIT"
 msgctxt "actor_stat_type_formatted_crit_chance"
 msgid "{0} CRIT"
-msgstr "{0} КРТ"
+msgstr "{0} КРИТ"
 
 #, fuzzy
 #| msgctxt "dot_bleed_amount"
@@ -512,16 +425,10 @@ msgctxt "actor_stat_type_formatted_dot_extra_duration_received_burn"
 msgid "{0} <sprite name={q}icon_burn{q}><color=#{debuff}>Duration Received</color>"
 msgstr "{0} <color=#{debuff}>длит. получ.</color> <sprite name={q}icon_burn{q}>"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_food_eat"
-#| msgid "Food Consumed"
 msgctxt "actor_stat_type_formatted_food_eat"
 msgid "{0} Food Consumed"
-msgstr "{0} съед. провизии"
+msgstr "Еды съедено"
 
-#, fuzzy
-#| msgctxt "effect_tooltip_health_damage_amount"
-#| msgid "{0} DMG"
 msgctxt "actor_stat_type_formatted_health_damage"
 msgid "{0} DMG"
 msgstr "{0} УРН"
@@ -533,87 +440,57 @@ msgctxt "actor_stat_type_formatted_health_damage_dealt_percent"
 msgid "{0} DMG"
 msgstr "{0} УРН"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_health_damage_received_percent"
-#| msgid "DMG Taken"
 msgctxt "actor_stat_type_formatted_health_damage_received_percent"
 msgid "{0} DMG Taken"
-msgstr "{0} получ. урона"
+msgstr "{0} УРН Получено"
 
-#, fuzzy
-#| msgctxt "item_name_healing_consumable_1"
-#| msgid "Healing Salve"
 msgctxt "actor_stat_type_formatted_health_heal_dealt_percent"
 msgid "{0} Healing Given"
-msgstr "{0} оказ. лечения"
+msgstr "{0} Оказано лечения"
 
-#, fuzzy
-#| msgctxt "item_name_healing_consumable_1"
-#| msgid "Healing Salve"
 msgctxt "actor_stat_type_formatted_health_heal_dealt_percent_dot"
 msgid "{0} Healing-Over-Time Given"
-msgstr "{0} оказ. отлож. лечения"
+msgstr "{0} Оказано отложенного лечения"
 
-#, fuzzy
-#| msgctxt "hospital_treatment_title"
-#| msgid "Healing"
 msgctxt "actor_stat_type_formatted_health_heal_percent_between_nodes"
 msgid "{0} Traveling Heal"
-msgstr "{0} лечен. в пути"
+msgstr "{0} Лечения в пути"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_health_heal_received_percent_skill"
-#| msgid "Healing Received from Skills"
 msgctxt "actor_stat_type_formatted_health_heal_received_percent"
 msgid "{0} Healing Received"
-msgstr "{0} получ. лечения"
+msgstr "{0} Получено лечения"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_health_heal_received_percent_food"
-#| msgid "Passive Healing Rate"
 msgctxt "actor_stat_type_formatted_health_heal_received_percent_food"
 msgid "{0} Passive Healing Rate"
-msgstr "{0} пасс. лечения"
+msgstr "Пассивное лечение"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_health_heal_received_percent_skill"
-#| msgid "Healing Received from Skills"
 msgctxt "actor_stat_type_formatted_health_heal_received_percent_skill"
 msgid "{0} Healing Received from Skills"
-msgstr "{0} получ. леч. от навыков"
+msgstr "Лечения получено от навыков"
 
-#, fuzzy
-#| msgctxt "dot_hot"
-#| msgid "<sprite name={q}icon_healthup{q}>"
 msgctxt "actor_stat_type_formatted_health_max"
 msgid "{0} Max <sprite name={q}icon_health_v2{q}>"
-msgstr "{0} макс. <sprite name={q}icon_health_v2{q}>"
+msgstr "{0} Максимум <sprite name={q}icon_health_v2{q}>"
 
-#, fuzzy
-#| msgctxt "tutorial_t1309_description"
-#| msgid "<color=#{notable}>HOLD [G]</color> to view the Token Glossary."
 msgctxt "actor_stat_type_formatted_item_discard_game_score_chance_combat"
 msgid "<color=#{notable}>{0}</color> Game Score Chance on Combat Item Discard"
-msgstr "<color=#{notable}>{0}</color> шанса доб. очки к счёту, если выбр. предм. боя"
+msgstr "<color=#{notable}>{0}</color> шанс добывания очков к счёту по выбросу предмета боя"
 
-#, fuzzy
-#| msgctxt "tutorial_t1309_description"
-#| msgid "<color=#{notable}>HOLD [G]</color> to view the Token Glossary."
 msgctxt "actor_stat_type_formatted_item_discard_game_score_chance_rest"
 msgid "<color=#{notable}>{0}</color> Game Score Chance on Rest Item Discard"
-msgstr "<color=#{notable}>{0}</color> шанса доб. очки к счёту, если выбр. предм. трактира"
+msgstr "<color=#{notable}>{0}</color> шанс добывания очков к счёту по выбросу предмета отдыха"
 
 msgctxt "actor_stat_type_formatted_item_discard_game_score_chance_stage_coach_upgrade_common"
 msgid "<color=#{notable}>{0}</color> Game Score Chance on Common Stagecoach Item Discard"
-msgstr "<color=#{notable}>{0}</color> шанса доб. очки к счёту, если выбр. обычн. акс. Дилижанса"
+msgstr "<color=#{notable}>{0}</color> шанс добывания очков к счёту по выбросу обычных предметов Диллижанса"
 
 msgctxt "actor_stat_type_formatted_item_discard_game_score_chance_stage_coach_upgrade_rare"
 msgid "<color=#{notable}>{0}</color> Game Score Chance on Rare Stagecoach Item Discard"
-msgstr "<color=#{notable}>{0}</color> шанса доб. очки к счёту, если выбр. редк. акс. Дилижанса"
+msgstr "<color=#{notable}>{0}</color>шанс добывания очков к счёту по выбросу обычных предметов Диллижанса"
 
 msgctxt "actor_stat_type_formatted_item_discard_game_score_chance_trinket_common"
 msgid "<color=#{notable}>{0}</color> Game Score Chance on Common Trinket Discard"
-msgstr "<color=#{notable}>{0}</color> шанса доб. очки к счёту, если выбр. обычн. вещицу"
+msgstr "<color=#{notable}>{0}</color> шанс доб. очки к счёту, если выбр. обычн. вещицу"
 
 #, fuzzy
 #| msgctxt "item_description_trinket_cultist_key"
@@ -1333,100 +1210,79 @@ msgstr "УРН"
 
 msgctxt "actor_stat_type_health_damage_received_percent"
 msgid "DMG Taken"
-msgstr "получ. урона"
+msgstr "УРН получено"
 
-#, fuzzy
-#| msgctxt "item_name_healing_consumable_1"
-#| msgid "Healing Salve"
 msgctxt "actor_stat_type_health_heal_dealt_percent"
 msgid "Healing Given"
-msgstr "оказ. лечения"
+msgstr "Оказано лечения"
 
-#, fuzzy
-#| msgctxt "item_name_healing_consumable_1"
-#| msgid "Healing Salve"
 msgctxt "actor_stat_type_health_heal_dealt_percent_dot"
 msgid "Healing-Over-Time Given"
-msgstr "оказ. отлож. лечения"
+msgstr "Оказано отложенного лечения"
 
-#, fuzzy
-#| msgctxt "hospital_treatment_title"
-#| msgid "Healing"
 msgctxt "actor_stat_type_health_heal_percent_between_nodes"
 msgid "Traveling Heal"
-msgstr "лечен. в пути"
+msgstr "Лечения в пути"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_health_heal_received_percent_skill"
-#| msgid "Healing Received from Skills"
 msgctxt "actor_stat_type_health_heal_received_percent"
 msgid "Healing Received"
-msgstr "получ. лечения"
+msgstr "Получено лечения"
 
 msgctxt "actor_stat_type_health_heal_received_percent_food"
 msgid "Passive Healing Rate"
-msgstr "пасс. лечения"
+msgstr "Пассивное лечение"
 
 msgctxt "actor_stat_type_health_heal_received_percent_skill"
 msgid "Healing Received from Skills"
-msgstr "получ. леч. от навыков"
+msgstr "Лечения получено от навыков"
 
-#, fuzzy
-#| msgctxt "dot_hot"
-#| msgid "<sprite name={q}icon_healthup{q}>"
 msgctxt "actor_stat_type_health_max"
 msgid "Max <sprite name={q}icon_health_v2{q}>"
-msgstr "макс. <sprite name={q}icon_health_v2{q}>"
+msgstr "Максимум <sprite name={q}icon_health_v2{q}>"
 
 msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_Cache"
 msgid "Academic's Caches"
-msgstr "тайников Академика"
+msgstr "Тайники Академика"
 
 msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_Hospital"
 msgid "Field Hospitals"
-msgstr "полевых лазаретов"
+msgstr "Полевые лазареты"
 
 msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_Store"
 msgid "Hoarders"
-msgstr "барахольщиков"
+msgstr "Барахолщики"
 
 msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_StoryAssist"
 msgid "Assistance Encounters"
-msgstr "страждущих"
+msgstr "Встреча с нуждающимися"
 
 msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_StoryCosmic"
 msgid "Academic's Studies"
-msgstr "лабораторий Академика"
+msgstr "Исследования Академика"
 
 msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_StoryCultist"
 msgid "Cultist Encounters"
-msgstr "встреч с еретиками"
+msgstr "Встреча с культистами"
 
 msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_StoryResist"
 msgid "Resistance Encounters"
-msgstr "мест схваток"
+msgstr "Встреча с сопротивление"
 
 msgctxt "actor_stat_type_map_generation_nodes_per_row_max"
 msgid "Path Choices"
-msgstr "развилок пути"
+msgstr "Развилка"
 
 msgctxt "actor_stat_type_map_generation_nodes_per_row_min"
 msgid "Path Choices"
-msgstr "развилок пути"
+msgstr "Развилка"
 
-#, fuzzy
-#| msgctxt "item_description_storage_trunk"
-#| msgid "+4 Inventory Slots"
 msgctxt "actor_stat_type_player_inventory_max_slots"
 msgid "Inventory Slots"
-msgstr "яч. инвентаря"
+msgstr "Ячейки инвентаря"
 
-#, fuzzy
-#| msgctxt "token_name_flaming"
-#| msgid "<color=#{notable}>Flaming</color>"
 msgctxt "actor_stat_type_remove_percent_driving"
 msgid "Traveling <color=#{notable}>Flame</color> Drain"
-msgstr "расх. <color=#{notable}>Пламени</color> в пути"
+msgstr "Расход <color=#{notable}>Пламени</color> в пути"
 
 msgctxt "actor_stat_type_resistance_bleed"
 msgid "<color=#{neutral}><sprite name={q}icon_bleed{q}> RES</color>"
@@ -1526,75 +1382,45 @@ msgctxt "actor_stat_type_resistance_stun_icon"
 msgid "<sprite name={q}icon_stun{q}>"
 msgstr "<sprite name={q}icon_stun{q}>"
 
-#, fuzzy
-#| msgctxt "item_description_crows_nest"
-#| msgid "Location Scouting +15%"
 msgctxt "actor_stat_type_scout_chance"
 msgid "Location and Route Scouting"
-msgstr "шанса развед. остановку и дорогу"
+msgstr "Шанс разведки остановок и дорог"
 
-#, fuzzy
-#| msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_Cache"
-#| msgid "Academic's Caches"
 msgctxt "actor_stat_type_scout_chance_Cache"
 msgid "Academic's Caches Location Scouting"
-msgstr "шанса обнар. тайн. Академика"
+msgstr "Шанс обнаружения \"Тайников Академика\""
 
-#, fuzzy
-#| msgctxt "minimap_tooltip_creaturesden"
-#| msgid "Creature's Den"
 msgctxt "actor_stat_type_scout_chance_CreatureDen"
 msgid "Creature Den Location Scouting"
-msgstr "шанса обнар. берлогу"
+msgstr "Шанс обнаружения \"Норы тварей\""
 
-#, fuzzy
-#| msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_StoryCultist"
-#| msgid "Cultist Encounters"
 msgctxt "actor_stat_type_scout_chance_CultistTerritory"
 msgid "Cultist Encounters Location Scouting"
-msgstr "шанса обнар. еретиков"
+msgstr "Шанс обнаружения \"Культистов\""
 
-#, fuzzy
-#| msgctxt "item_description_crows_nest"
-#| msgid "Location Scouting +15%"
 msgctxt "actor_stat_type_scout_chance_Dungeon"
 msgid "Lairs Location Scouting"
-msgstr "шанса обнар. логово"
+msgstr "Шанс обнаружения \"Логова\""
 
-#, fuzzy
-#| msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_Hospital"
-#| msgid "Field Hospitals"
 msgctxt "actor_stat_type_scout_chance_Hospital"
 msgid "Field Hospitals Location Scouting"
-msgstr "шанса обнар. полев. лазарет"
+msgstr "Шанс обнаружения \"Полевых лазаретов\""
 
-#, fuzzy
-#| msgctxt "item_description_crows_nest"
-#| msgid "Location Scouting +15%"
 msgctxt "actor_stat_type_scout_chance_Oasis"
 msgid "Oasis Location Scouting"
-msgstr "шанса обнар. оазис"
+msgstr "Шанс обнаружения \"Оазиса\""
 
-#, fuzzy
-#| msgctxt "item_description_crows_nest"
-#| msgid "Location Scouting +15%"
 msgctxt "actor_stat_type_scout_chance_Store"
 msgid "Hoarder Location Scouting"
-msgstr "шанса обнар. барахольщика"
+msgstr "Шанс обнаружения \"Барахольщика\""
 
-#, fuzzy
-#| msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_StoryAssist"
-#| msgid "Assistance Encounters"
 msgctxt "actor_stat_type_scout_chance_StoryAssist"
 msgid "Assistance Encounters Location Scouting"
-msgstr "шанса обнар. страждущих"
+msgstr "Шанс обнаружения \"Нуждающихся\""
 
-#, fuzzy
-#| msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_StoryCosmic"
-#| msgid "Academic's Studies"
 msgctxt "actor_stat_type_scout_chance_StoryCosmic"
 msgid "Academic's Studies Location Scouting"
-msgstr "шанса обнар. лаб. Академика"
+msgstr "Шанс обнаружения \"Исследований Академика\""
 
 #, fuzzy
 #| msgctxt "actor_stat_type_map_generation_node_spawn_multiplier_StoryCultist"
@@ -1626,7 +1452,7 @@ msgstr "<sprite name={q}icon_speed{q}>"
 
 msgctxt "actor_stat_type_store_cost_buy_multiplier_Consumable"
 msgid "Consumable Item Prices"
-msgstr "стоимости расходников"
+msgstr "Стоимости расходников"
 
 #, fuzzy
 #| msgctxt "tutorial_t102_title"
@@ -1637,7 +1463,7 @@ msgstr "Стоимости акс. Дилижанса"
 
 msgctxt "actor_stat_type_store_cost_buy_multiplier_Trinket"
 msgid "Trinket Prices"
-msgstr "стоимости вещиц"
+msgstr "Стоимости диковинк"
 
 msgctxt "actor_stat_type_store_cost_sell_multiplier_Consumable"
 msgid "[DISABLED FEATURE REMOVE ME]"
@@ -1653,7 +1479,7 @@ msgstr "[DISABLED FEATURE REMOVE ME]"
 
 msgctxt "actor_stat_type_torch_drain_between_nodes"
 msgid "Flame Drain"
-msgstr "расход Пламени"
+msgstr "Расход пламени"
 
 #, fuzzy
 #| msgctxt "actor_stat_type_torch_drain_between_nodes"
@@ -1957,7 +1783,7 @@ msgstr "Ты справишься. Будь наготове."
 
 msgctxt "affinity_change_bark_add_buff_participating+jester"
 msgid "Oh, I'll cheer you on if I <i>must.</i>"
-msgstr "Я поддержу тебя, если нужно."
+msgstr "Ох, я приподрю тебя, если <i>нужно.</i>"
 
 #, fuzzy
 #| msgctxt "bark_act_out_banter_tumultuous_dmg_debuff"
@@ -2079,7 +1905,7 @@ msgstr "Фиглярство!"
 
 msgctxt "affinity_change_bark_add_guard_mortally_jealous+highwayman"
 msgid "Mistake it was, counting on you."
-msgstr "Было ошибкой положиться на тебя!"
+msgstr "Это было ошибкой, рассчитывать на тебя."
 
 #, fuzzy
 #| msgctxt "bark_item_speed_bag+leper"
@@ -2094,7 +1920,7 @@ msgstr "Ты выносишь мне смертный приговор."
 
 msgctxt "affinity_change_bark_add_guard_mortally_jealous+man_at_arms"
 msgid "If we lose this day, it's at your feet!"
-msgstr "Если мы проиграем, то по твоей вине."
+msgstr "Если мы сегодня проиграем, то это твоих рук дело!"
 
 msgctxt "affinity_change_bark_add_guard_mortally_jealous+occultist"
 msgid "So you'd sacrifice me? I see."
@@ -2152,7 +1978,7 @@ msgstr "Ещё не пришёл твой час."
 
 msgctxt "affinity_change_bark_add_guard_participating_dd+grave_robber"
 msgid "Look at you - inspiring heroics!"
-msgstr "Ты вдохновляешь героизмом."
+msgstr "Посмотри на себя - вдохновляющий героизм!"
 
 msgctxt "affinity_change_bark_add_guard_participating_dd+hellion"
 msgid "Hold fast - I am your armour!"
@@ -2218,7 +2044,7 @@ msgstr "Займись своими ранами. Я прикрою!"
 
 msgctxt "affinity_change_bark_add_guard_participating_wounded+grave_robber"
 msgid "Don't squander my altruism, hm?"
-msgstr "Не растрачивай мой приступ альтруизма попусту."
+msgstr "Не растрачивай мой альтруизм, хорошо?"
 
 #, fuzzy
 #| msgctxt "bark_act_out_combat_skill_reaction_block_target_from_being_buffed+leper"
@@ -2377,7 +2203,7 @@ msgstr "Совсем мне не доверяешь?"
 
 msgctxt "affinity_change_bark_add_token_observing_jealous+jester"
 msgid "We'll see who's laughing when <i>you</i> need help!"
-msgstr "Посмотрим, как ты попляшешь, когда тебе понадобится помощь."
+msgstr "Мы посмотрим кто будет смеяться, когда <i>тебе</i> понадобится помощь."
 
 msgctxt "affinity_change_bark_add_token_observing_jealous+leper"
 msgid "The jackal stalks alone."
@@ -2385,7 +2211,7 @@ msgstr "У одинокого шакала нет друзей."
 
 msgctxt "affinity_change_bark_add_token_observing_jealous+man_at_arms"
 msgid "You wouldn't know good leadership!"
-msgstr "Кто же поведёт тебя в бой?"
+msgstr "Вы не знаете, что такое хорошее лидерство!"
 
 #, fuzzy
 #| msgctxt "bark_act_out_combat_skill_reaction_block_target_from_being_buffed+leper"
@@ -2462,7 +2288,7 @@ msgstr "Слушать мою команду!"
 
 msgctxt "affinity_change_bark_add_token_participating+occultist"
 msgid "My power is yours."
-msgstr "Моя сила – твоя!"
+msgstr "Моя сила – твоя."
 
 #, fuzzy
 #| msgctxt "bark_act_out_start_my_turn_heal_partner+amorous+plague_doctor"
@@ -2492,7 +2318,7 @@ msgstr "Положиться на тебя? Вряд ли."
 
 msgctxt "affinity_change_bark_banter_negative@2"
 msgid "Cease that humming, ye gods...!"
-msgstr "Хватит мычать!.."
+msgstr "Хватит мычать, о боги...!"
 
 #, fuzzy
 #| msgctxt "affinity_change_bark_banter_negative@1"
@@ -2716,7 +2542,7 @@ msgstr "Прибереги свою желчь для врагов!"
 
 msgctxt "affinity_change_bark_banter_negative_high_stress@4"
 msgid "Was there no one capable left...?"
-msgstr "Неужели остались одни бездари?.."
+msgstr "Неужели не осталось никого способного...?"
 
 #, fuzzy
 #| msgctxt "bark_act_out_start_my_turn_heal_partner+amorous+occultist"
@@ -2756,7 +2582,7 @@ msgstr "Убери ноги, если они тебе дороги."
 
 msgctxt "affinity_change_bark_banter_negative_high_stress+highwayman@1"
 msgid "What's <i>wrong?</i> Look outside. You daft?"
-msgstr "Ты в своём уме? Выгляни в окно."
+msgstr "Что <i>не так?</i> Посмотри что снаружи. Ты спятил?"
 
 msgctxt "affinity_change_bark_banter_negative_high_stress+jester@0"
 msgid "Entertain yourself. I'm done."
@@ -2801,7 +2627,7 @@ msgstr "Приготовься к худшим из последствий."
 
 msgctxt "affinity_change_bark_banter_negative_high_stress+plague_doctor@0"
 msgid "I've had better company in the morgue!"
-msgstr "В морге у меня была компания получше."
+msgstr "В морге у меня была компания получше!"
 
 msgctxt "affinity_change_bark_banter_negative_high_stress+plague_doctor@1"
 msgid "You! Reckless! You threaten us all!"
@@ -2845,7 +2671,7 @@ msgstr "Мне нужно отдохнуть!"
 
 msgctxt "affinity_change_bark_banter_negative_low_stress@2"
 msgid "My waterskin! You nabbed it!"
-msgstr "Мой бурдюк! Твоих рук дело?"
+msgstr "Мой бурдюк! Ты стащил его!"
 
 #, fuzzy
 #| msgctxt "bark_node_exit_failure_storycultist+hellion"
@@ -2930,7 +2756,7 @@ msgstr "А ну, кыш! От тебя одни хлопоты."
 
 msgctxt "affinity_change_bark_banter_negative_low_stress+occultist@0"
 msgid "Be wary of prying, <i>friend.</i>"
-msgstr "Любопытство сгубило кошку."
+msgstr "Поосторожней с любопытством, <i>друг.</i>"
 
 msgctxt "affinity_change_bark_banter_negative_low_stress+occultist@1"
 msgid "Respect my silence, please."
@@ -2967,7 +2793,7 @@ msgstr "Меня беспокоит отсутствие у тебя гигие
 
 msgctxt "affinity_change_bark_banter_negative_low_stress+vestal@1"
 msgid "You may sit beside me, but be <i>quiet.</i>"
-msgstr "Можешь посидеть рядом, но чтоб без звука."
+msgstr "Можешь сесть рядом, но веди себя <i>тихо.</i>"
 
 msgctxt "affinity_change_bark_banter_negative_med_stress@0"
 msgid "Drunkard! Keep your wits about you!"
@@ -2990,7 +2816,7 @@ msgstr "Я не верю ни единому твоему слову!"
 
 msgctxt "affinity_change_bark_banter_negative_med_stress@4"
 msgid "You cowardly seek-sorrow!"
-msgstr "Ты трусливо ищешь жалости."
+msgstr "Ты трусливый мученик!"
 
 #, fuzzy
 #| msgctxt "bark_act_out_start_my_turn_stress_dmg_partner+hellion"
@@ -3075,7 +2901,7 @@ msgstr "Даже у терпения есть предел."
 
 msgctxt "affinity_change_bark_banter_negative_med_stress+plague_doctor@0"
 msgid "Have you no sense? I said BEGONE."
-msgstr "Ты не понимаешь? Я говорю прочь!"
+msgstr "Ты не понимаешь? Я говорю ПРОЧЬ!"
 
 msgctxt "affinity_change_bark_banter_negative_med_stress+plague_doctor@1"
 msgid "You bicker as a child does!"
@@ -3384,7 +3210,7 @@ msgstr "У тебя достойная душа."
 
 msgctxt "affinity_change_bark_banter_positive_high_stress+man_at_arms@0"
 msgid "Promise me it ain't for naught?"
-msgstr "Обещай мне, что это всё не напрасно."
+msgstr "Обещаешь, что это не напрасно?"
 
 #, fuzzy
 #| msgctxt "bark_act_out_banter_tumultuous_stress_heal"
@@ -35264,18 +35090,15 @@ msgstr "Каретная мастерская"
 
 msgctxt "inn_screen_name_store"
 msgid "The Provisioner"
-msgstr "Чёрная лавка"
+msgstr "Снабженец"
 
 msgctxt "inn_screen_name_upgrade_skills"
 msgid "Mastery Trainer"
-msgstr "Школа закалки"
+msgstr "Тренер закалки"
 
-#, fuzzy
-#| msgctxt "bark_item_stew+leper"
-#| msgid "Every meal a feast."
 msgctxt "inn_screen_title_end_run"
 msgid "Every League, a Lesson."
-msgstr "Каждая лига – усвоенный урок."
+msgstr "Каждая лига – урок."
 
 msgctxt "inn_select_route_label"
 msgid "Select a Route"
@@ -35283,7 +35106,7 @@ msgstr "Выберите путь"
 
 msgctxt "inn_store_title"
 msgid "The Provisioner"
-msgstr "Чёрная лавка"
+msgstr "Снабженец"
 
 msgctxt "inn_title_anticultist"
 msgid "The Mountain's Shadow"
@@ -64267,21 +64090,15 @@ msgctxt "tutorial_t1602_title"
 msgid "Inn Items II"
 msgstr "Предметы трактира II"
 
-#, fuzzy
-#| msgctxt "tutorial_t1603_description"
-#| msgid ""
-#| "The <color=#{harmful}>PROVISIONER</color> offers a limited amount of supplies that can be purchased for <color=#{harmful}>RELICS</color><sprite name={q}icon_relic{q}>. <color=#{notable}>[CLICK]</color> to purchase an item.\n"
-#| "\n"
-#| "The Provisioner's selection varies each time you reach an Inn."
 msgctxt "tutorial_t1603_description"
 msgid ""
 "The <color=#{harmful}>PROVISIONER</color> offers a limited amount of supplies that can be purchased for <color=#{harmful}>RELICS</color><sprite name={q}icon_relic{q}>. <sprite name={q}icon-mouse-left{q}> to purchase an item.\n"
 "\n"
 "The Provisioner's selection varies each time you reach an Inn."
 msgstr ""
-"В <color=#{harmful}>ЧЁРНОЙ ЛАВКЕ</color> содержится ограниченное число запасов, которые можно приобрести за <color=#{harmful}>РЕЛИКВИИ</color><sprite name={q}icon_relic{q}><sprite name={q}icon-mouse-left{q}>.\n"
+"У <color=#{harmful}>СНАБЖЕНЦА</color> содержится ограниченное число запасов, которые можно приобрести за <color=#{harmful}>РЕЛИКВИИ</color><sprite name={q}icon_relic{q}><sprite name={q}icon-mouse-left{q}>.\n"
 "\n"
-". Товары из ассортимента Чёрной лавки меняются каждый раз, когда вы заходите в трактир."
+". Товары из ассортимента снабженца меняются каждый раз, когда вы достигаете трактира."
 
 msgctxt "tutorial_t1603_texture"
 msgid "t1603"
@@ -64289,7 +64106,7 @@ msgstr "t1603"
 
 msgctxt "tutorial_t1603_title"
 msgid "Provisioner"
-msgstr "Чёрная лавка"
+msgstr "Снабженец"
 
 #, fuzzy
 #| msgctxt "tutorial_t1604_description"
