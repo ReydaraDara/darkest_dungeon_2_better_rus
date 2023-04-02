@@ -3,7 +3,7 @@
 
 Improving Russian localization for Darkest Dungeon 2.
 
-RU:
+# RU:
 Этот проект направлен на улучшение русского перевода игры Darkest Dungeon 2. На данный момент перевод игры страдает очень многими недостатками и дефектами. 
 
 [1]: Использование сокращений и усложнение смыслов. ДД2, это в первую очередь тактическая игра где игроку необходимо знать каждую переменную для достижения успеха. Может ли игрок извлечь информацию и понять что делает способность, когда её описание похоже на следующее: (пл. 2 кр. для вра. или св. па. дл. для союз.)
@@ -16,8 +16,9 @@ RU:
 
 Я не очень хочу лезть в конфликты или что-то начинать. Я просто хочу чтобы на релизе люди наслаждались этой игрой и погружались в её прекрасную атмосферу, а не боролись с бесконечными точками, расплывчатыми понятиями или языком, что порой лишает игру всяких тёмных тонов.
 
+На данный момент это лишь концепт. Моя задача сделать перевод который будет близок к оригиналу, но при этом будет использовать всю красоту русского языка. Многое из того что я перевёл можно поменять, многое я делал в спешке. В данный момент, цель этого проекта привлечь внимание к большой проблеме локализации игры.
 
-ENG:
+# ENG:
 This project is focused on improving the Russian translation of Darkest Dungeon 2. At the moment, the game's translation suffers from a lot of flaws and defects. 
 
 [1]: The use of abbreviations and complication of meanings. DD2 is first and foremost a tactical game where the player needs to know every variable to succeed. Can the player extract information and understand what an ability does when its description is similar to the following: [st. 2. pos. tokens fr. each ene. at the en. of tur.]
@@ -30,16 +31,34 @@ This project is focused on improving the Russian translation of Darkest Dungeon 
 
 I don't really want to get into conflicts or start anything. I just want people to enjoy this game on release and immerse themselves in its beautiful atmosphere, rather than struggle with the endless dots, blurry terms or language that sometimes strip the game of any dark tones.
 
+This is just a concept at the moment. My task is to make a translation that will be close to the original, but will use all the beauty of the Russian language. Lots of things I translated can be changed, a lot of things I did in a hurry. At the moment, the goal of this project is to draw attention to the big problem of localization of the game.
 
-  
+# COMPARISON | СРАВНЕНИЕ:
+ГЛАВНЫЙ ЭКРАН
 ![1](https://user-images.githubusercontent.com/109465945/229361656-9e3fb4fe-325e-4256-b7a0-058873c01777.jpg)
+
+ИНВЕНТАРЬ
 ![2-1](https://user-images.githubusercontent.com/109465945/229361663-3693a5de-7b73-4f3c-aee4-48db7403c650.jpg)
 ![2-2](https://user-images.githubusercontent.com/109465945/229361668-a4ff1380-14b3-4efe-9428-b4798d7f47f6.jpg)
-![3-1](https://user-images.githubusercontent.com/109465945/229361670-34a8f994-2d09-49a6-9eb1-34eec52d1a45.jpg)
+
+ОКНО ТРАКТИРА
 ![3-2](https://user-images.githubusercontent.com/109465945/229361673-dc21c480-268d-4ad4-b500-06e1898f15ad.jpg)
+![3-1](https://user-images.githubusercontent.com/109465945/229361670-34a8f994-2d09-49a6-9eb1-34eec52d1a45.jpg)
+
+ДИКОВИНКИ
 ![4](https://user-images.githubusercontent.com/109465945/229361677-583e3162-dff1-42fb-8f42-3776f11e98d3.jpg)
+
+ОТНОШЕНИЯ
 ![5](https://user-images.githubusercontent.com/109465945/229361681-f89b2564-b67c-41fd-9e3a-15858c23d964.jpg)
+
+МЕТКИ
 ![6](https://user-images.githubusercontent.com/109465945/229361682-86538ed0-3e55-466a-8b89-2cda726d516f.jpg)
+
+ИСПРАВЛЕНИЕ СТРАННОСТЕЙ
 ![7](https://user-images.githubusercontent.com/109465945/229361686-c43dcc39-6b9e-40bd-98d2-5658aa2e8008.jpg)
+
 ![8](https://user-images.githubusercontent.com/109465945/229361690-725dbaef-cc7d-4b79-8a6b-32c89e8e67d6.jpg)
-![9](https://user-images.githubusercontent.com/109465945/229361733-6320bd1d-a337-4cd3-97c9-78c5c2393613.jpg)
+
+НАГЛЯДНЫЕ ИЗМЕНЕНИЯ
+![9](https://user-images.githubusercontent.com/109465945/229364468-5a8eeb29-5111-4943-97f2-5cb087ce60a0.jpg)
+
