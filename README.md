@@ -12,3 +12,4 @@ Improving Russian localization for Darkest Dungeon 2.
 ![6](https://user-images.githubusercontent.com/109465945/229361682-86538ed0-3e55-466a-8b89-2cda726d516f.jpg)
 ![7](https://user-images.githubusercontent.com/109465945/229361686-c43dcc39-6b9e-40bd-98d2-5658aa2e8008.jpg)
 ![8](https://user-images.githubusercontent.com/109465945/229361690-725dbaef-cc7d-4b79-8a6b-32c89e8e67d6.jpg)
+![9](https://user-images.githubusercontent.com/109465945/229361733-6320bd1d-a337-4cd3-97c9-78c5c2393613.jpg)
