@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-02 01:28+0400\n"
+"PO-Revision-Date: 2023-04-02 03:39+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -262,83 +262,83 @@ msgstr "{0} КРИТ"
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_dealt_change_bleed"
 msgid "{0} <sprite name={q}icon_bleed{q}><color=#{buff}>Dealt</color>"
-msgstr "{0} <color=#{buff}>наносит</color> <sprite name={q}icon_bleed{q}>"
+msgstr "{0} <sprite name={q}icon_bleed{q}><color=#{buff}>наносит</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_dealt_change_blight"
 msgid "{0} <sprite name={q}icon_blight{q}><color=#{buff}>Dealt</color>"
-msgstr "{0} <color=#{buff}>наносит</color> <sprite name={q}icon_blight{q}>"
+msgstr "{0} <sprite name={q}icon_blight{q}><color=#{buff}>наносит</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_dealt_change_burn"
 msgid "{0} <sprite name={q}icon_burn{q}><color=#{buff}>Dealt</color>"
-msgstr "{0} <color=#{buff}>наносит</color> <sprite name={q}icon_burn{q}>"
+msgstr "{0} <sprite name={q}icon_burn{q}><color=#{buff}>наносит</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_dealt_change_hot"
 msgid "{0} <sprite name={q}icon_healthup{q}><color=#{buff}>Dealt</color>"
-msgstr "{0} <color=#{buff}>наносит</color> <sprite name={q}icon_healthup{q}>"
+msgstr "{0} <sprite name={q}icon_healthup{q}><color=#{buff}>наносит</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_dealt_multiplier_bleed"
 msgid "{0} <sprite name={q}icon_bleed{q}><color=#{buff}>Dealt</color>"
-msgstr "{0} <color=#{buff}>наносит</color> <sprite name={q}icon_bleed{q}>"
+msgstr "{0} <sprite name={q}icon_bleed{q}><color=#{buff}>наносит</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_dealt_multiplier_blight"
 msgid "{0} <sprite name={q}icon_blight{q}><color=#{buff}>Dealt</color>"
-msgstr "{0} <color=#{buff}>наносит</color> <sprite name={q}icon_blight{q}>"
+msgstr "{0} <sprite name={q}icon_blight{q}><color=#{buff}>наносит</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_dealt_multiplier_burn"
 msgid "{0} <sprite name={q}icon_burn{q}><color=#{buff}>Dealt</color>"
-msgstr "{0} <color=#{buff}>наносит</color> <sprite name={q}icon_burn{q}>"
+msgstr "{0} <sprite name={q}icon_burn{q}><color=#{buff}>наносит</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_dealt_multiplier_hot"
 msgid "{0} <sprite name={q}icon_healthup{q}><color=#{buff}>Dealt</color>"
-msgstr "{0} <color=#{buff}>наносит</color> <sprite name={q}icon_healthup{q}>"
+msgstr "{0} <sprite name={q}icon_healthup{q}><color=#{buff}>наносит</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_received_change_bleed"
 msgid "{0} <sprite name={q}icon_bleed{q}><color=#{debuff}>Received</color>"
-msgstr "{0} <color=#{debuff}>получает</color> <sprite name={q}icon_bleed{q}>"
+msgstr "{0} <sprite name={q}icon_bleed{q}><color=#{debuff}>получает</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_received_change_blight"
 msgid "{0} <sprite name={q}icon_blight{q}><color=#{debuff}>Received</color>"
-msgstr "{0} <color=#{debuff}>получает</color> <sprite name={q}icon_blight{q}>"
+msgstr "{0} <sprite name={q}icon_blight{q}><color=#{debuff}>получает</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_received_change_burn"
 msgid "{0} <sprite name={q}icon_burn{q}><color=#{debuff}>Received</color>"
-msgstr "{0} <color=#{debuff}>получает</color> <sprite name={q}icon_burn{q}>"
+msgstr "{0} <sprite name={q}icon_burn{q}><color=#{debuff}>получает</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_received_multiplier_bleed"
 msgid "{0} <sprite name={q}icon_bleed{q}><color=#{debuff}>Received</color>"
-msgstr "{0} <color=#{debuff}>получает</color> <sprite name={q}icon_bleed{q}>"
+msgstr "{0} <sprite name={q}icon_bleed{q}><color=#{debuff}>получает</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_received_multiplier_blight"
 msgid "{0} <sprite name={q}icon_blight{q}><color=#{debuff}>Received</color>"
-msgstr "{0} <color=#{debuff}>получает</color> <sprite name={q}icon_blight{q}>"
+msgstr "{0} <sprite name={q}icon_blight{q}><color=#{debuff}>получает</color> "
 
 msgctxt "actor_stat_type_formatted_dot_effect_value_received_multiplier_burn"
 msgid "{0} <sprite name={q}icon_burn{q}><color=#{debuff}>Received</color>"
-msgstr "{0} <color=#{debuff}>получает</color> <sprite name={q}icon_burn{q}>"
+msgstr "{0} <sprite name={q}icon_burn{q}><color=#{debuff}>получает</color> "
 
 msgctxt "actor_stat_type_formatted_dot_extra_duration_dealt_bleed"
 msgid "{0} <sprite name={q}icon_bleed{q}><color=#{buff}>Duration Dealt</color>"
-msgstr "{0} <color=#{buff}>длительность нанесения</color> <sprite name={q}icon_bleed{q}>"
+msgstr "{0} <sprite name={q}icon_bleed{q}><color=#{buff}>длительность получения</color> "
 
 msgctxt "actor_stat_type_formatted_dot_extra_duration_dealt_blight"
 msgid "{0} <sprite name={q}icon_blight{q}><color=#{buff}>Duration Dealt</color>"
-msgstr "{0} <color=#{buff}>длительность нанесения</color> <sprite name={q}icon_blight{q}>"
+msgstr "{0} <sprite name={q}icon_blight{q}><color=#{buff}>длительность получения</color> "
 
 msgctxt "actor_stat_type_formatted_dot_extra_duration_dealt_burn"
 msgid "{0} <sprite name={q}icon_burn{q}><color=#{buff}>Duration Dealt</color>"
-msgstr "{0} <color=#{buff}>длительность нанесения</color> <sprite name={q}icon_burn{q}>"
+msgstr "{0} <sprite name={q}icon_burn{q}><color=#{buff}>длительность получения</color> "
 
 msgctxt "actor_stat_type_formatted_dot_extra_duration_received_bleed"
 msgid "{0} <sprite name={q}icon_bleed{q}><color=#{debuff}>Duration Received</color>"
-msgstr "{0} <color=#{debuff}>длительность получения</color> <sprite name={q}icon_bleed{q}>"
+msgstr "{0} <sprite name={q}icon_bleed{q}><color=#{debuff}>к длительность получения</color> "
 
 msgctxt "actor_stat_type_formatted_dot_extra_duration_received_blight"
 msgid "{0} <sprite name={q}icon_blight{q}><color=#{debuff}>Duration Received</color>"
-msgstr "{0} <color=#{debuff}>длительность получения</color> <sprite name={q}icon_blight{q}>"
+msgstr "{0} <sprite name={q}icon_blight{q}><color=#{debuff}>длительность получения</color> "
 
 msgctxt "actor_stat_type_formatted_dot_extra_duration_received_burn"
 msgid "{0} <sprite name={q}icon_burn{q}><color=#{debuff}>Duration Received</color>"
-msgstr "{0} <color=#{debuff}>длительность получения</color> <sprite name={q}icon_burn{q}>"
+msgstr "{0} <sprite name={q}icon_burn{q}><color=#{debuff}>длительность получения</color> "
 
 msgctxt "actor_stat_type_formatted_food_eat"
 msgid "{0} Food Consumed"
@@ -702,71 +702,71 @@ msgstr "<color=#{notable}>{0}</color> Шанс разведки останово
 
 msgctxt "actor_stat_type_formatted_scout_chance_Cache"
 msgid "<color=#{notable}>{0}</color> Academic's Caches Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Тайников Академика\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Тайников Академика'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_combat"
 msgid "<color=#{notable}>{0}</color> Combat Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Дорог с боем\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Дорог с боем'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_CreatureDen"
 msgid "<color=#{notable}>{0}</color> Creature Den Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Нор тварей\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Нор тварей'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_CultistTerritory"
 msgid "<color=#{notable}>{0}</color> Cultist Encounters Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Культистов\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Культистов'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Dungeon"
 msgid "<color=#{notable}>{0}</color> Lairs Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Логов\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Логов'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_hazard"
 msgid "<color=#{notable}>{0}</color> Hazardous Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Опасных дорог\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Опасных дорог'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Hospital"
 msgid "<color=#{notable}>{0}</color> Field Hospitals Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Полевых лазаретов\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Полевых лазаретов'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Oasis"
 msgid "<color=#{notable}>{0}</color> Oasis Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Оазисов\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Оазисов'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_oblivion_tear"
 msgid "<color=#{notable}>{0}</color> Oblivion Tear Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Разломов забвения\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Разломов забвения'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_rough_patch"
 msgid "<color=#{notable}>{0}</color> Rough Patch Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Разрушенная дорог\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Разрушенная дорог'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_safe"
 msgid "<color=#{notable}>{0}</color> Safe Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Безопасных дорог\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Безопасных дорог'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Store"
 msgid "<color=#{notable}>{0}</color> Hoarder Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Барахольщика\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Барахольщика'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryAssist"
 msgid "<color=#{notable}>{0}</color> Assistance Encounters Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Нуждающихся\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Нуждающихся'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryCosmic"
 msgid "<color=#{notable}>{0}</color> Academic's Studies Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Исследований Академика\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Исследований Академика'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryCultist"
 msgid "<color=#{notable}>{0}</color> Cultist Encounters Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Культистов\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Культистов'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryHero"
 msgid "<color=#{notable}>{0}</color> Hero Shrines Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Святынь Героев\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Святынь Героев'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryResist"
 msgid "<color=#{notable}>{0}</color> Resistance Encounters Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки \"Битв\""
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Битв'"
 
 msgctxt "actor_stat_type_formatted_speed"
 msgid "{0} <sprite name={q}icon_speed{q}>"
@@ -982,51 +982,51 @@ msgstr "Шанс разведки остановок и дорог"
 
 msgctxt "actor_stat_type_scout_chance_Cache"
 msgid "Academic's Caches Location Scouting"
-msgstr "Шанс обнаружения \"Тайников Академика\""
+msgstr "Шанс обнаружения 'Тайников Академика'"
 
 msgctxt "actor_stat_type_scout_chance_CreatureDen"
 msgid "Creature Den Location Scouting"
-msgstr "Шанс обнаружения \"Нор тварей\""
+msgstr "Шанс обнаружения 'Нор тварей'"
 
 msgctxt "actor_stat_type_scout_chance_CultistTerritory"
 msgid "Cultist Encounters Location Scouting"
-msgstr "Шанс обнаружения \"Культистов\""
+msgstr "Шанс обнаружения 'Культистов'"
 
 msgctxt "actor_stat_type_scout_chance_Dungeon"
 msgid "Lairs Location Scouting"
-msgstr "Шанс обнаружения \"Логов\""
+msgstr "Шанс обнаружения 'Логов'"
 
 msgctxt "actor_stat_type_scout_chance_Hospital"
 msgid "Field Hospitals Location Scouting"
-msgstr "Шанс обнаружения \"Полевых лазаретов\""
+msgstr "Шанс обнаружения 'Полевых лазаретов'"
 
 msgctxt "actor_stat_type_scout_chance_Oasis"
 msgid "Oasis Location Scouting"
-msgstr "Шанс обнаружения \"Оазисов\""
+msgstr "Шанс обнаружения 'Оазисов'"
 
 msgctxt "actor_stat_type_scout_chance_Store"
 msgid "Hoarder Location Scouting"
-msgstr "Шанс обнаружения \"Барахольщика\""
+msgstr "Шанс обнаружения 'Барахольщика'"
 
 msgctxt "actor_stat_type_scout_chance_StoryAssist"
 msgid "Assistance Encounters Location Scouting"
-msgstr "Шанс обнаружения \"Нуждающихся\""
+msgstr "Шанс обнаружения 'Нуждающихся'"
 
 msgctxt "actor_stat_type_scout_chance_StoryCosmic"
 msgid "Academic's Studies Location Scouting"
-msgstr "Шанс обнаружения \"Исследований Академика\""
+msgstr "Шанс обнаружения 'Исследований Академика'"
 
 msgctxt "actor_stat_type_scout_chance_StoryCultist"
 msgid "Cultist Encounters Location Scouting"
-msgstr "Шанс обнаружения \"Культистов\""
+msgstr "Шанс обнаружения 'Культистов'"
 
 msgctxt "actor_stat_type_scout_chance_StoryHero"
 msgid "Hero Shrines Location Scouting"
-msgstr "Шанс обнаружения \"Святынь Героев\""
+msgstr "Шанс обнаружения 'Святынь Героев'"
 
 msgctxt "actor_stat_type_scout_chance_StoryResist"
 msgid "Resistance Encounters Location Scouting"
-msgstr "Шанс обнаружения \"Битв\""
+msgstr "Шанс обнаружения 'Битв'"
 
 msgctxt "actor_stat_type_speed"
 msgid "<sprite name={q}icon_speed{q}>"
@@ -2057,10 +2057,9 @@ msgctxt "affinity_change_bark_banter_negative_med_stress+hellion@1"
 msgid "You've a coward's stink on you!"
 msgstr "От тебя несёт трусостью!"
 
-#, fuzzy
 msgctxt "affinity_change_bark_banter_negative_med_stress+highwayman@0"
 msgid "Accuse me of cheatin' one more time..."
-msgstr "Ещё раз скажи, что я тебя подвёл..."
+msgstr "Давай, обвини меня в мухлеже ещё разок..."
 
 #, fuzzy
 msgctxt "affinity_change_bark_banter_negative_med_stress+highwayman@1"
@@ -2112,10 +2111,9 @@ msgctxt "affinity_change_bark_banter_negative_med_stress+plague_doctor@0"
 msgid "Have you no sense? I said BEGONE."
 msgstr "Ты не понимаешь? Я говорю ПРОЧЬ!"
 
-#, fuzzy
 msgctxt "affinity_change_bark_banter_negative_med_stress+plague_doctor@1"
 msgid "You bicker as a child does!"
-msgstr "Ты препираешься как ребёнок!"
+msgstr "Ты упёртый как ребёнок!"
 
 #, fuzzy
 msgctxt "affinity_change_bark_banter_negative_med_stress+runaway@0"
@@ -4105,11 +4103,11 @@ msgstr "<color=#{positive_quirk}>Дружелюбие</color>"
 
 msgctxt "affinity_leaning_level_maximum"
 msgid "<color=#{positive_quirk}>Max Affinity</color>"
-msgstr "<color=#{positive_quirk}>Максимальная симпатии</color>"
+msgstr "<color=#{positive_quirk}>Единство</color>"
 
 msgctxt "affinity_leaning_level_minimum"
 msgid "<color=#{negative_quirk_dark}>Zero Affinity</color>"
-msgstr "<color=#{negative_quirk_dark}>Отсутствие симпатии</color>"
+msgstr "<color=#{negative_quirk_dark}>Отторжение</color>"
 
 msgctxt "affinity_leaning_level_neutral"
 msgid "Neutral"
@@ -17079,7 +17077,7 @@ msgstr "15"
 
 msgctxt "biome_mutator_no_time_to_bleed"
 msgid "BLOOD RUN"
-msgstr "ТОК КРОВИ"
+msgstr "КРОВОТЕЧЕНИЕ"
 
 msgctxt "biome_mutator_outpost"
 msgid "OUTPOST"
@@ -18968,7 +18966,7 @@ msgstr "Использовать  <color=#{notable}>Раздумья</color> 3 
 
 msgctxt "effect_condition_performer_skill_hist_lep_solemnity_override"
 msgid "Use <color=#{notable}>Solemnity</color> 2+ times in a single fight"
-msgstr "Использовать  <color=#{notable}>Почесть</color> 2 раза в одном бою"
+msgstr "Использовать  <color=#{notable}>Торжественность</color> 2 раза в одном бою"
 
 msgctxt "effect_condition_performer_skill_hist_lep_stagger_override"
 msgid "Use <color=#{notable}>Bash</color> 6+ times in a single fight"
@@ -19028,7 +19026,7 @@ msgstr "Использовать  <color=#{notable}>Жертвенное пак�
 
 msgctxt "effect_condition_performer_skill_hist_pd_battlefield_medicine_override"
 msgid "Use <color=#{notable}>Battlefield Medicine</color> 2+ times in a single fight"
-msgstr "Использовать  <color=#{notable}>Полевое лекарство</color> 2 раза в одном бою"
+msgstr "Использовать  <color=#{notable}>Полевая медицина</color> 2 раза в одном бою"
 
 msgctxt "effect_condition_performer_skill_hist_pd_blinding_gas_override"
 msgid "Use <color=#{notable}>Blinding Gas</color> 2+ times in a single fight"
@@ -19284,7 +19282,7 @@ msgstr "Наносит 75% от оставшихся <sprite name={q}icon_burn{
 
 msgctxt "effect_skill_remove_all_stun_type_tokens_override"
 msgid "Remove <sprite name={q}token_daze{q}><sprite name={q}token_stun{q}>"
-msgstr "Симает <sprite name={q}token_daze{q}><sprite name={q}token_stun{q}>"
+msgstr "Снимает <sprite name={q}token_daze{q}><sprite name={q}token_stun{q}>"
 
 msgctxt "effect_skill_run_searing_strike_u_target_neighbor_random_override_EXAMPLE_1"
 msgid "<sprite name={q}token_combo{q}><sprite name={q}icon_burn{q}>: Chance To Spread <sprite name={q}icon_burn{q}>"
@@ -19354,7 +19352,7 @@ msgid ""
 msgstr ""
 "<color=#{heal}>Лечит 10%</color>\n"
 "<sprite name={q}token_conviction{q}><sprite name={q}token_conviction{q}>: <color=#{heal}>Лечит 20%</color>\n"
-"<sprite name={q}token_conviction{q}><sprite name={q}token_conviction{q}><sprite name={q}token_conviction{q}>: Симает все <color=#{debuff}>отрицательные</color> метки"
+"<sprite name={q}token_conviction{q}><sprite name={q}token_conviction{q}><sprite name={q}token_conviction{q}>: Снимает все <color=#{debuff}>отрицательные</color> метки"
 
 msgctxt "effect_skill_ves_ministration_bleed_res_buff_e_override"
 msgid "<color=#{buff}>+30% RES</color> for each token type removed"
@@ -19410,7 +19408,7 @@ msgstr "<color=#{buff}>{0}</color>"
 
 msgctxt "effect_tooltip_buff_remove_all_tags"
 msgid "Removes {0}"
-msgstr "Симает {0}"
+msgstr "Снимает {0}"
 
 msgctxt "effect_tooltip_chance_per_round"
 msgid "({0}% Chance Per Rd)"
@@ -19470,7 +19468,7 @@ msgstr "Если нет {0}: {1}"
 
 msgctxt "effect_tooltip_condition_first_initiative"
 msgid "If First in Turn Order: {0}"
-msgstr "Если перв. в очереди: {0}"
+msgstr "Если первый в очереди: {0}"
 
 msgctxt "effect_tooltip_condition_health_percent"
 msgid "If HP {0}{1}%: {2}"
@@ -19486,7 +19484,7 @@ msgstr "Если <color=#{notable}>{0}</color> в инвентаре {1}{2}: {3
 
 msgctxt "effect_tooltip_condition_item_equipped_tag"
 msgid "If <color=#{notable}>{0}</color> item is equipped: {1}"
-msgstr "Если <color=#{notable}>{0}</color> экипирован: {1}"
+msgstr "Если экипирован предмет категории '<color=#{notable}>{0}</color>' : {1}"
 
 msgctxt "effect_tooltip_condition_item_equipped_tag_multiple"
 msgid "{1} per <color=#{notable}>{0}</color> item equipped"
@@ -19526,11 +19524,11 @@ msgstr "Если {0}: {1}"
 
 msgctxt "effect_tooltip_condition_rank"
 msgid "If Rank {0}{1}: {2}"
-msgstr "Если поз. {0}{1}: {2}"
+msgstr "Если позиция {0}{1}: {2}"
 
 msgctxt "effect_tooltip_condition_rank_inverse"
 msgid "If Not Rank {0}{1}: {2}"
-msgstr "Если поз. не {0}{1}: {2}"
+msgstr "Если позиция не {0}{1}: {2}"
 
 msgctxt "effect_tooltip_condition_resist"
 msgid "{0}: {1}"
@@ -19662,15 +19660,15 @@ msgstr "Накладывает {0}"
 
 msgctxt "effect_tooltip_dot_remove_all_tags"
 msgid "Remove {0}"
-msgstr "Симает {0}"
+msgstr "Снимает {0}"
 
 msgctxt "effect_tooltip_dot_remove_all_types"
 msgid "Remove {0}"
-msgstr "Симает {0}"
+msgstr "Снимает {0}"
 
 msgctxt "effect_tooltip_dot_remove_amount"
 msgid "Remove {0}"
-msgstr "Симает {0}"
+msgstr "Снимает {0}"
 
 msgctxt "effect_tooltip_dot_steal_tag"
 msgid "Steal {0}"
@@ -19814,7 +19812,7 @@ msgstr "{0}"
 
 msgctxt "effect_tooltip_remove_quirk"
 msgid "Remove {0}"
-msgstr "Симает {0}"
+msgstr "Снимает {0}"
 
 msgctxt "effect_tooltip_shuffle"
 msgid "<color=#{move}>Shuffle</color>"
@@ -19854,7 +19852,7 @@ msgstr "<color=#{notable}>Требуется {0} {1}{2}</color>"
 
 msgctxt "effect_tooltip_skill_condition_rank"
 msgid "<color=#{notable}>Requires {0} Rank {1}{2}</color>"
-msgstr "<color=#{notable}>Требуется {0} с поз. {1}{2}</color>"
+msgstr "<color=#{notable}>Требуется {0} с позицией {1}{2}</color>"
 
 msgctxt "effect_tooltip_skill_condition_run_value@0"
 msgid "<color=#{notable}>Requires campaign {0} {1}{2}</color>"
@@ -20370,19 +20368,19 @@ msgstr "Копир. {0}-{1} {2} метка"
 
 msgctxt "effect_tooltip_token_remove_all_tag"
 msgid "Remove All {0} Tokens"
-msgstr "Симает все {0} метки"
+msgstr "Снимает все {0} метки"
 
 msgctxt "effect_tooltip_token_remove_amount"
 msgid "Remove {0}"
-msgstr "Симает {0}"
+msgstr "Снимает {0}"
 
 msgctxt "effect_tooltip_token_remove_tag"
 msgid "Remove {0} {1} Token"
-msgstr "Симает {0} {1} метка"
+msgstr "Снимает {0} {1} метка"
 
 msgctxt "effect_tooltip_token_remove_tag+plural"
 msgid "Remove {0} {1} Tokens"
-msgstr "Симает {0} {1} меток"
+msgstr "Снимает {0} {1} меток"
 
 msgctxt "effect_tooltip_token_remove_tag+plural+cz"
 msgid "Czech Plural special case for if a number is 2, 3, or 4"
@@ -20394,7 +20392,7 @@ msgstr "Polish Plural special case for if a number ends in 2, 3, or 4 and is les
 
 msgctxt "effect_tooltip_token_remove_tag+plural+ru"
 msgid "Russian Plural special case for if a number is 2, 3, or 4"
-msgstr "Симает {0} {1} метки"
+msgstr "Снимает {0} {1} метки"
 
 msgctxt "effect_tooltip_token_steal_all_tag"
 msgid "Steal All {0} Tokens"
@@ -20530,11 +20528,11 @@ msgstr "Обгоревшие книги"
 
 msgctxt "fanatic_pit_figher"
 msgid "Pit Fighter"
-msgstr "Тварь геенны"
+msgstr "Боец из канав"
 
 msgctxt "fanatic_pit_fighter"
 msgid "Pit Fighter"
-msgstr "Тварь геенны"
+msgstr "Боец из канав"
 
 msgctxt "fanatic_pit_fighter_corpse"
 msgid "Corpse"
@@ -27748,11 +27746,11 @@ msgstr "Каретная мастерская"
 
 msgctxt "inn_screen_name_store"
 msgid "The Provisioner"
-msgstr "Снабженец"
+msgstr "Снабдитель"
 
 msgctxt "inn_screen_name_upgrade_skills"
 msgid "Mastery Trainer"
-msgstr "Тренер закалки"
+msgstr "Мастер закалки"
 
 msgctxt "inn_screen_title_end_run"
 msgid "Every League, a Lesson."
@@ -27764,7 +27762,7 @@ msgstr "Выберите путь"
 
 msgctxt "inn_store_title"
 msgid "The Provisioner"
-msgstr "Снабженец"
+msgstr "Снабдитель"
 
 msgctxt "inn_title_anticultist"
 msgid "The Mountain's Shadow"
@@ -28271,7 +28269,7 @@ msgid ""
 "Remove <sprite name={q}icon_blight{q}>\n"
 "<color=#{heal}>Heal 10%</color>"
 msgstr ""
-"Симает <sprite name={q}icon_blight{q}>\n"
+"Снимает <sprite name={q}icon_blight{q}>\n"
 "<color=#{heal}>Лечит 10%</color>"
 
 msgctxt "item_description_bandages"
@@ -28279,7 +28277,7 @@ msgid ""
 "Remove <sprite name={q}icon_bleed{q}>\n"
 "<color=#{heal}>Heal 10%</color>"
 msgstr ""
-"Симает <sprite name={q}icon_bleed{q}>\n"
+"Снимает <sprite name={q}icon_bleed{q}>\n"
 "<color=#{heal}>Лечит 10%</color>"
 
 msgctxt "item_description_bear_trap"
@@ -28299,12 +28297,12 @@ msgid ""
 "Remove <sprite name={q}icon_burn{q}>\n"
 "<color=#{heal}>Heal 10%</color>"
 msgstr ""
-"Симает <sprite name={q}icon_burn{q}>\n"
+"Снимает <sprite name={q}icon_burn{q}>\n"
 "<color=#{heal}>Лечит 10%</color>"
 
 msgctxt "item_description_chalk_dust"
 msgid "Remove <sprite name={q}token_stealth{q}>"
-msgstr "Симает <sprite name={q}token_stealth{q}>"
+msgstr "Снимает <sprite name={q}token_stealth{q}>"
 
 msgctxt "item_description_clotting_powders"
 msgid ""
@@ -28339,7 +28337,7 @@ msgid ""
 "+1 <font={q}NDDunkelD-Bold SDF{q}><sprite name={q}icon_heropoints{q}></font>"
 msgstr ""
 "<color=#{notable}>Если достав. в трактир:</color>\n"
-"Симает 1 отрицательную черту [Группа]\n"
+"Снимает 1 отрицательную черту [Группа]\n"
 "+1 <font={q}NDDunkelD-Bold SDF{q}><sprite name={q}icon_heropoints{q}></font>"
 
 msgctxt "item_description_dog_teeth"
@@ -28380,7 +28378,7 @@ msgstr "<color=#{heal}>Лечит 75%</color>"
 
 msgctxt "item_description_holy_water"
 msgid "Remove <sprite name={q}token_combo{q}> and all <color=#{debuff}>negative</color> tokens"
-msgstr "Симает <sprite name={q}token_combo{q}> и все <color=#{debuff}>отрицательные</color> метки"
+msgstr "Снимает <sprite name={q}token_combo{q}> и все <color=#{debuff}>отрицательные</color> метки"
 
 msgctxt "item_description_icebox"
 msgid "<color=#{notable}>+1%</color> <sprite name={q}icon_disease{q}> RES per <color=#{notable}>Food</color> in inventory"
@@ -28409,7 +28407,7 @@ msgid ""
 "Remove <sprite name={q}token_horror{q}>\n"
 "<color=#{notable}>-1</color> <sprite name={q}token_stress{q}>"
 msgstr ""
-"Симает <sprite name={q}token_horror{q}>\n"
+"Снимает <sprite name={q}token_horror{q}>\n"
 "<color=#{notable}>-1</color> <sprite name={q}token_stress{q}>"
 
 msgctxt "item_description_locked_strongbox"
@@ -28432,7 +28430,7 @@ msgstr ""
 
 msgctxt "item_description_medicinal_herbs"
 msgid "Remove <sprite name={q}icon_bleed{q}> <sprite name={q}icon_blight{q}> <sprite name={q}icon_burn{q}>"
-msgstr "Симает <sprite name={q}icon_bleed{q}> <sprite name={q}icon_blight{q}> <sprite name={q}icon_burn{q}>"
+msgstr "Снимает <sprite name={q}icon_bleed{q}> <sprite name={q}icon_blight{q}> <sprite name={q}icon_burn{q}>"
 
 msgctxt "item_description_neutralizing_powders"
 msgid ""
@@ -28481,7 +28479,7 @@ msgid ""
 "Remove <sprite name={q}icon_bleed{q}> <sprite name={q}icon_blight{q}> <sprite name={q}icon_burn{q}>\n"
 "<color=#{heal}>Heal 25%</color>"
 msgstr ""
-"Симает <sprite name={q}icon_bleed{q}> <sprite name={q}icon_blight{q}> <sprite name={q}icon_burn{q}>\n"
+"Снимает <sprite name={q}icon_bleed{q}> <sprite name={q}icon_blight{q}> <sprite name={q}icon_burn{q}>\n"
 "<color=#{heal}>Лечит 25%</color>"
 
 msgctxt "item_description_pyrotechnic_dazzler"
@@ -28494,7 +28492,7 @@ msgstr ""
 
 msgctxt "item_description_rag"
 msgid "Remove <sprite name={q}token_blind-line{q}>"
-msgstr "Симает <sprite name={q}token_blind-line{q}>"
+msgstr "Снимает <sprite name={q}token_blind-line{q}>"
 
 msgctxt "item_description_roast_pig"
 msgid ""
@@ -28521,7 +28519,7 @@ msgid ""
 "Remove <sprite name={q}token_daze{q}> <sprite name={q}token_stun{q}>\n"
 "Add <sprite name={q}token_dodge{q}>"
 msgstr ""
-"Симает <sprite name={q}token_daze{q}> <sprite name={q}token_stun{q}>\n"
+"Снимает <sprite name={q}token_daze{q}> <sprite name={q}token_stun{q}>\n"
 "Добавляет <sprite name={q}token_dodge{q}>"
 
 msgctxt "item_description_smoke_bomb"
@@ -28602,7 +28600,7 @@ msgstr "<sprite name={q}icon_blight{q}> <color=#{blight}>3</color> (3 хода)"
 
 msgctxt "item_description_trinket_hero_ves_profane_scroll"
 msgid "<color=#{notable}>Turn End:</color> If Rank = 3 or 4: <color=#{debuff}>+2</color> <sprite name={q}token_stress{q}>"
-msgstr "<color=#{notable}>Конец хода:</color> Если поз. = 3 или 4: <color=#{debuff}>+2</color> <sprite name={q}token_stress{q}>"
+msgstr "<color=#{notable}>Конец хода:</color> Если позиция = 3 или 4: <color=#{debuff}>+2</color> <sprite name={q}token_stress{q}>"
 
 msgctxt "item_description_wagon_jack"
 msgid "Heroes gain an <color=#{notable}>extra action</color> after using the Repair skill"
@@ -31902,7 +31900,7 @@ msgstr "Лабиринт ходов"
 
 msgctxt "node_interaction_story_resist_label+city"
 msgid "The Burning Pile"
-msgstr "Горящая громада"
+msgstr "Горящая гора книг"
 
 msgctxt "node_interaction_story_resist_label+coast"
 msgid "The Sunken Monolith"
@@ -36892,7 +36890,7 @@ msgstr "Использовать  <color=#{notable}>Рубящий удар</col
 
 msgctxt "run_goal_progress_e_skill_hist_lep_solemnity_label"
 msgid "Use <color=#{notable}>Solemnity</color> 2+ times in a single fight"
-msgstr "Использовать  <color=#{notable}>Почесть</color> 2 раза в одном бою"
+msgstr "Использовать  <color=#{notable}>Торжественность</color> 2 раза в одном бою"
 
 msgctxt "run_goal_progress_e_skill_hist_lep_withstand_label"
 msgid "Use <color=#{notable}>Withstand</color> 2+ times in a single fight"
@@ -36924,7 +36922,7 @@ msgstr "Использовать  <color=#{notable}>Жертвенное пак�
 
 msgctxt "run_goal_progress_e_skill_hist_pd_battlefield_medicine_label"
 msgid "Use <color=#{notable}>Battlefield Medicine</color> 2+ times in a single fight"
-msgstr "Использовать  <color=#{notable}>Полевое лекарство</color> 2 раза в одном бою"
+msgstr "Использовать  <color=#{notable}>Полевая медицина</color> 2 раза в одном бою"
 
 msgctxt "run_goal_progress_e_skill_hist_pd_blinding_gas_label"
 msgid "Use <color=#{notable}>Blinding Gas</color> 2+ times in a single fight"
@@ -37424,7 +37422,7 @@ msgstr "Труп"
 
 msgctxt "shared_lost_soul_urchin"
 msgid "Urchin"
-msgstr "Шкилет"
+msgstr "Оборванец"
 
 msgctxt "shared_lost_soul_urchin_corpse"
 msgid "Corpse"
@@ -38084,7 +38082,7 @@ msgstr "Позор сильнее смерти!"
 
 msgctxt "skill_name_drummer_focus_fire"
 msgid "Focus Fire"
-msgstr "Прицельный огонь!"
+msgstr "Сфокусировать атаку"
 
 msgctxt "skill_name_drummer_marching_orders"
 msgid "Marching Orders"
@@ -38092,15 +38090,15 @@ msgstr "Шагом марш!"
 
 msgctxt "skill_name_drummer_order_defend_us"
 msgid "Order: Defensive Formation"
-msgstr "Оборонительный строй!"
+msgstr "Приказ: Оборонительная формация"
 
 msgctxt "skill_name_drummer_order_slay_the_wounded"
 msgid "Order: Slay the Wounded"
-msgstr "Пленных не брать!"
+msgstr "Приказ: Добейте выживших"
 
 msgctxt "skill_name_drummer_order_volley"
 msgid "Order: Volley"
-msgstr "Залпом пли!"
+msgstr "Приказ: Пли!"
 
 msgctxt "skill_name_drummer_sound_and_fury"
 msgid "Sound and Fury"
@@ -38292,7 +38290,7 @@ msgstr "Узрите мои страдания!"
 
 msgctxt "skill_name_gaunt_lost_soul_gibbering_chomp"
 msgid "Chomp"
-msgstr "Бессвязный хруст"
+msgstr "Укус"
 
 msgctxt "skill_name_gaunt_lost_soul_scrabble"
 msgid "Filthy Morsel"
@@ -39088,7 +39086,7 @@ msgstr "Заключительный аккорд"
 
 msgctxt "skill_name_jes_combat_1_solo"
 msgid "Solo"
-msgstr "Сольная партия"
+msgstr "Соло"
 
 msgctxt "skill_name_jes_combat_1_verse"
 msgid "Verse"
@@ -39112,7 +39110,7 @@ msgstr "Не отставай!"
 
 msgctxt "skill_name_jes_combat_1_violinist_solo"
 msgid "Solo"
-msgstr "Сольная партия"
+msgstr "Соло"
 
 msgctxt "skill_name_jes_combat_1_violinist_verse"
 msgid "Verse"
@@ -39208,11 +39206,11 @@ msgstr "Руку на отсечение<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_jes_solo"
 msgid "Solo"
-msgstr "Сольная партия"
+msgstr "Соло"
 
 msgctxt "skill_name_jes_solo_u"
 msgid "Solo<sprite name={q}icon_upgraded_skill{q}>"
-msgstr "Сольная партия<sprite name={q}icon_upgraded_skill{q}>"
+msgstr "Соло<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_jes_the_last_laugh"
 msgid "Encore"
@@ -39224,7 +39222,7 @@ msgstr "На бис<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_knight_biting_blade"
 msgid "Biting Blade"
-msgstr "Укус клинка"
+msgstr "Кусающее лезвие"
 
 msgctxt "skill_name_knight_en_garde"
 msgid "En Garde"
@@ -39232,7 +39230,7 @@ msgstr "Ан гард!"
 
 msgctxt "skill_name_knight_flashing_blade"
 msgid "Flashing Blade"
-msgstr "Блеск клинка"
+msgstr "Сверкающее лезвие"
 
 msgctxt "skill_name_knight_have_at_you"
 msgid "Have At You"
@@ -39340,11 +39338,11 @@ msgstr "Погибель<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_lep_solemnity"
 msgid "Solemnity"
-msgstr "Почесть"
+msgstr "Торжественность"
 
 msgctxt "skill_name_lep_solemnity_u"
 msgid "Solemnity<sprite name={q}icon_upgraded_skill{q}>"
-msgstr "Почесть<sprite name={q}icon_upgraded_skill{q}>"
+msgstr "Торжественность<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_lep_stagger"
 msgid "Bash"
@@ -39996,11 +39994,11 @@ msgstr "Пропустить <sprite name={q}token_stress{q}>"
 
 msgctxt "skill_name_pd_battlefield_medicine"
 msgid "Battlefield Medicine"
-msgstr "Полевое лекарство"
+msgstr "Полевая медицина"
 
 msgctxt "skill_name_pd_battlefield_medicine_u"
 msgid "Battlefield Medicine<sprite name={q}icon_upgraded_skill{q}>"
-msgstr "Полевое лекарство<sprite name={q}icon_upgraded_skill{q}>"
+msgstr "Полевая медицина<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_pd_blinding_gas"
 msgid "Blinding Gas"
@@ -40096,11 +40094,11 @@ msgstr "Инцизия<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_pd_indiscriminate_science"
 msgid "Indiscriminate Science"
-msgstr "Слепой опыт"
+msgstr "Опыт вслепую"
 
 msgctxt "skill_name_pd_indiscriminate_science_u"
 msgid "Indiscriminate Science<sprite name={q}icon_upgraded_skill{q}>"
-msgstr "Слепой опыт<sprite name={q}icon_upgraded_skill{q}>"
+msgstr "Опыт вслепую<sprite name={q}icon_upgraded_skill{q}>"
 
 msgctxt "skill_name_pd_lunar_caustic"
 msgid "Lunar Caustic"
@@ -40232,7 +40230,7 @@ msgstr "Огонь по авангарду"
 
 msgctxt "skill_name_pillager_ranged_shell_shock"
 msgid "Shell Shock"
-msgstr "Замешательство врага"
+msgstr "Травматический шок"
 
 msgctxt "skill_name_pit_fighter_buff"
 msgid "Accelerant"
@@ -40240,7 +40238,7 @@ msgstr "Горючее топливо"
 
 msgctxt "skill_name_pit_fighter_punch"
 msgid "Pummel"
-msgstr "Побои"
+msgstr "Избиение"
 
 msgctxt "skill_name_pit_fighter_uppercut"
 msgid "Jawbreaker"
@@ -41100,7 +41098,7 @@ msgstr "Горючее"
 
 msgctxt "skill_tag_pd_battlefield_medicine"
 msgid "Battlefield Medicine"
-msgstr "Полевое лекарство"
+msgstr "Полевая медицина"
 
 msgctxt "skill_tag_pd_disorienting_blast"
 msgid "Disorienting Blast"
@@ -47513,8 +47511,8 @@ msgstr ""
 "<color=#{buff}>+5%</color> лечения за каждую <color=#{debuff}>отрицательную</color> метку<color=#{debuff}>\n"
 "Цель:</color>\n"
 "<color=#{heal}>Лечит 10%</color>\n"
-"Симает все <color=#{buff}>положительные</color> метки\n"
-"Симает все <color=#{debuff}>отрицательные</color> метки"
+"Снимает все <color=#{buff}>положительные</color> метки\n"
+"Снимает все <color=#{debuff}>отрицательные</color> метки"
 
 msgctxt "target_buff_desc_pd_indiscriminate_science_pos_bonus_override"
 msgid ""
@@ -47526,7 +47524,7 @@ msgstr ""
 "<color=#{buff}>+10%</color> лечения за каждую <color=#{buff}>положительную</color> метку<color=#{debuff}>\n"
 "Цель:</color>\n"
 "<color=#{heal}>Лечит 10%</color>\n"
-"Симает все <color=#{buff}>положительные</color> метки"
+"Снимает все <color=#{buff}>положительные</color> метки"
 
 msgctxt "target_buff_desc_stealth_ignore_deaths_door_override"
 msgid ""
@@ -47774,7 +47772,7 @@ msgstr "<color=#{combo}>Контузия</color>"
 
 msgctxt "token_concuss_description"
 msgid "Primed for a combo effect"
-msgstr "Подготавливается к получению комбо-эффекта"
+msgstr "Подготавливается получает комбо-эффекта"
 
 msgctxt "token_confuse"
 msgid "<color=#{combo}>Confuse</color>"
@@ -47782,7 +47780,7 @@ msgstr "<color=#{combo}>Замешательство</color>"
 
 msgctxt "token_confuse_description"
 msgid "Primed for a combo effect"
-msgstr "Подготавливается к получению комбо-эффекта"
+msgstr "Подготавливается получает комбо-эффекта"
 
 msgctxt "token_controlled_burn"
 msgid "<sprite name={q}token_controlled_burn{q}>"
@@ -47890,7 +47888,7 @@ msgstr "<color=#{combo}>Проклятие</color>"
 
 msgctxt "token_curse_description"
 msgid "Primed for a combo effect"
-msgstr "Подготавливается к получению комбо-эффекта"
+msgstr "Подготавливается получает комбо-эффекта"
 
 msgctxt "token_daze"
 msgid "<sprite name={q}token_daze{q}>"
@@ -49710,7 +49708,7 @@ msgid ""
 "\n"
 "The Provisioner's selection varies each time you reach an Inn."
 msgstr ""
-"У <color=#{harmful}>СНАБЖЕНЦА</color> содержится ограниченное число запасов, которые можно приобрести за <color=#{harmful}>РЕЛИКВИИ</color><sprite name={q}icon_relic{q}><sprite name={q}icon-mouse-left{q}>.\n"
+"У <color=#{harmful}>СНАБДИТЕЛЯ</color> содержится ограниченное число запасов, которые можно приобрести за <color=#{harmful}>РЕЛИКВИИ</color><sprite name={q}icon_relic{q}><sprite name={q}icon-mouse-left{q}>.\n"
 "\n"
 "Товары из ассортимента снабженца меняются каждый раз, когда вы достигаете трактира."
 
@@ -49720,7 +49718,7 @@ msgstr "t1603"
 
 msgctxt "tutorial_t1603_title"
 msgid "Provisioner"
-msgstr "Снабженец"
+msgstr "Снабдитель"
 
 msgctxt "tutorial_t1604_description"
 msgid ""
@@ -49790,7 +49788,7 @@ msgstr "t1608"
 
 msgctxt "tutorial_t1608_title"
 msgid "Mastery Trainer"
-msgstr "Тренер закалки"
+msgstr "Мастер закалки"
 
 msgctxt "tutorial_t1609_description"
 msgid ""
@@ -51172,7 +51170,7 @@ msgstr "<sprite name={q}icon_upgraded_skill{q}> Улучшение"
 
 msgctxt "upgrade_skills_screen_title"
 msgid "Mastery Trainer"
-msgstr "Тренер закалки"
+msgstr "Мастер закалки"
 
 msgctxt "upgrade_track_bounty_hunter_1_title"
 msgid "The Hero We Need"
@@ -52772,7 +52770,7 @@ msgstr "Полученный урок – усвоенный урок."
 
 msgctxt "vo_battle_hero_action_kill_monster_general_09_0"
 msgid "Straightforward, and effective!"
-msgstr "Просто и эффективно!"
+msgstr "Прямолинейно, и эффективно!"
 
 msgctxt "vo_battle_hero_action_kill_monster_strong_01_0"
 msgid "A resounding response!"
