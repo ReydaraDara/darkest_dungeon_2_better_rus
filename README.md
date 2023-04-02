@@ -1,7 +1,23 @@
 # darkest_dungeon_2_better_rus
 Improving Russian localization for Darkest Dungeon 2.
+
 (улучшение перевода Darkest Dungeon 2 для русского языка)
 
+ENG:
+This project is focused on improving the Russian translation of Darkest Dungeon 2. At the moment, the game's translation suffers from a lot of flaws and defects. 
+
+[1]: The use of abbreviations and complication of meanings. DD2 is first and foremost a tactical game where the player needs to know every variable to succeed. Can the player extract information and understand what an ability does when its description is similar to the following:
+
+[2]: A large amount of text, which not only does not compliment the original, but also distorts or completely changes the essence of the original text. *Cultists - Heretic, Provisioner - Black Market/Shop.
+
+[3]: Translation of some names and use of non-existent words. I don't mind the use of feminisms, especially when it's really necessary or suits the style of the project. But this translation uses words that don't exist at all, which are not only perceived as foreign and interfere with immersion in the game, but also not really necessary.
+
+[4]: Partial disregard for the original writing style and characters. For example, Highwayman's phrase: "Nice. It is translated as if this character is not a highwayman, but a happy and uncaring person!
+
+I don't really want to get into conflicts or start anything. I just want people to enjoy this game on release and immerse themselves in its beautiful atmosphere, rather than struggle with the endless dots, blurry terms or language that sometimes strip the game of any dark tones.
+
+
+  
 ![1](https://user-images.githubusercontent.com/109465945/229361656-9e3fb4fe-325e-4256-b7a0-058873c01777.jpg)
 ![2-1](https://user-images.githubusercontent.com/109465945/229361663-3693a5de-7b73-4f3c-aee4-48db7403c650.jpg)
 ![2-2](https://user-images.githubusercontent.com/109465945/229361668-a4ff1380-14b3-4efe-9428-b4798d7f47f6.jpg)
