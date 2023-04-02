@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-02 04:52+0400\n"
+"PO-Revision-Date: 2023-04-02 05:40+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -698,11 +698,11 @@ msgstr "<color=#{notable}>{0}</color> надежды за победу"
 
 msgctxt "actor_stat_type_formatted_scout_chance"
 msgid "<color=#{notable}>{0}</color> Location and Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки остановок и дорог"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Остановки и дороги'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Cache"
 msgid "<color=#{notable}>{0}</color> Academic's Caches Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Тайников Академика'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Тайник Академика'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_combat"
 msgid "<color=#{notable}>{0}</color> Combat Route Scouting"
@@ -710,63 +710,63 @@ msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Дорог с �
 
 msgctxt "actor_stat_type_formatted_scout_chance_CreatureDen"
 msgid "<color=#{notable}>{0}</color> Creature Den Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Нор тварей'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Прибежище тварей'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_CultistTerritory"
 msgid "<color=#{notable}>{0}</color> Cultist Encounters Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Культистов'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Культисты'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Dungeon"
 msgid "<color=#{notable}>{0}</color> Lairs Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Логов'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Логово'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_hazard"
 msgid "<color=#{notable}>{0}</color> Hazardous Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Опасных дорог'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Опасная дорог'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Hospital"
 msgid "<color=#{notable}>{0}</color> Field Hospitals Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Полевых лазаретов'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Полевой лазарет'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Oasis"
 msgid "<color=#{notable}>{0}</color> Oasis Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Оазисов'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Оазис'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_oblivion_tear"
 msgid "<color=#{notable}>{0}</color> Oblivion Tear Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Разломов забвения'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Разлом забвения'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_rough_patch"
 msgid "<color=#{notable}>{0}</color> Rough Patch Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Разрушенная дорог'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Разрушенная дорога'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_safe"
 msgid "<color=#{notable}>{0}</color> Safe Route Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Безопасных дорог'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Безопасная дорога'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_Store"
 msgid "<color=#{notable}>{0}</color> Hoarder Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Барахольщика'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Барахольщик'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryAssist"
 msgid "<color=#{notable}>{0}</color> Assistance Encounters Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Нуждающихся'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Нуждающиеся'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryCosmic"
 msgid "<color=#{notable}>{0}</color> Academic's Studies Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Исследований Академика'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Исследования Академика'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryCultist"
 msgid "<color=#{notable}>{0}</color> Cultist Encounters Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Культистов'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Культисты'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryHero"
 msgid "<color=#{notable}>{0}</color> Hero Shrines Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Святынь Героев'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Святыни Героев'"
 
 msgctxt "actor_stat_type_formatted_scout_chance_StoryResist"
 msgid "<color=#{notable}>{0}</color> Resistance Encounters Location Scouting"
-msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Битв'"
+msgstr "<color=#{notable}>{0}</color> Шанс разведки 'Битва'"
 
 msgctxt "actor_stat_type_formatted_speed"
 msgid "{0} <sprite name={q}icon_speed{q}>"
@@ -16881,7 +16881,7 @@ msgstr "Ввязаться не более чем в 1 схватку"
 
 msgctxt "biome_goal_description_visit_creature_den"
 msgid "Visit a Creature Den"
-msgstr "Посетить берлогу"
+msgstr "Посетить прибежище тварей"
 
 msgctxt "biome_goal_description_visit_cultist_2"
 msgid "Visit 2+ Oblivion's Ingresses"
@@ -19672,11 +19672,11 @@ msgstr "Снимает {0}"
 
 msgctxt "effect_tooltip_dot_steal_tag"
 msgid "Steal {0}"
-msgstr "Кража: {0}"
+msgstr "Крадёт {0}"
 
 msgctxt "effect_tooltip_dot_steal_tags"
 msgid "Steal x{0}-{1} {2}"
-msgstr "Кража: х{0}-{1} {2}"
+msgstr "Крадёт х{0}-{1} {2}"
 
 msgctxt "effect_tooltip_dot_to_token_convert_amount"
 msgid "Convert {0} to {1}"
@@ -20396,15 +20396,15 @@ msgstr "Снимает {0} {1} метки"
 
 msgctxt "effect_tooltip_token_steal_all_tag"
 msgid "Steal All {0} Tokens"
-msgstr "Кража: всех {0} меток"
+msgstr "Крадёт всех {0} меток"
 
 msgctxt "effect_tooltip_token_steal_tag"
 msgid "Steal {0} Token"
-msgstr "Кража: {0} метки"
+msgstr "Крадёт {0} метки"
 
 msgctxt "effect_tooltip_token_steal_tag+plural"
 msgid "Steal {0} {1} Tokens"
-msgstr "Кража: {0} {1} меток"
+msgstr "Крадёт {0} {1} меток"
 
 msgctxt "effect_tooltip_token_steal_tag+plural+cz"
 msgid "Czech Plural special case for if a number is 2, 3, or 4"
@@ -20416,11 +20416,11 @@ msgstr "Polish Plural special case for if a number ends in 2, 3, or 4 and is les
 
 msgctxt "effect_tooltip_token_steal_tag+plural+ru"
 msgid "Russian Plural special case for if a number is 2, 3, or 4"
-msgstr "Кража: {0} {1} метки"
+msgstr "Крадёт {0} {1} метки"
 
 msgctxt "effect_tooltip_token_steal_tags_range"
 msgid "Steal {0}-{1} {2} Tokens"
-msgstr "Кража: {0}-{1} {2} метки"
+msgstr "Крадёт {0}-{1} {2} метки"
 
 msgctxt "effect_tooltip_torch_change"
 msgid "Flame {0}"
@@ -30200,15 +30200,15 @@ msgstr "Малый талисман остроты"
 
 msgctxt "item_name_trinket_tiered_wolfsblood"
 msgid "Wolfsblood"
-msgstr "Волчьякровь"
+msgstr "Волчья кровь"
 
 msgctxt "item_name_trinket_tiered_wolfsblood_greater"
 msgid "Greater Wolfsblood"
-msgstr "Великая волчьякровь"
+msgstr "Великая волчья кровь"
 
 msgctxt "item_name_trinket_tiered_wolfsblood_minor"
 msgid "Minor Wolfsblood"
-msgstr "Малая волчьякровь"
+msgstr "Малая волчья кровь"
 
 msgctxt "item_name_trophy_coastal_boss_leviathan"
 msgid "The Beck and Call"
@@ -31206,7 +31206,7 @@ msgstr "Тайник Академика"
 
 msgctxt "loot_screen_title_cache_caves"
 msgid "The Swine's Cache"
-msgstr "Тайник вепрей"
+msgstr "Тайник свиней"
 
 msgctxt "loot_screen_title_combat_complete"
 msgid "Victory"
@@ -31820,7 +31820,7 @@ msgstr "Тайник Академика"
 
 msgctxt "node_interaction_caves_cache_label"
 msgid "The Swine's Cache"
-msgstr "Тайник вепрей"
+msgstr "Тайник свиней"
 
 msgctxt "node_interaction_creatureden"
 msgid "Enter The Den"
@@ -34256,7 +34256,7 @@ msgstr "Боязнь бандитов"
 
 msgctxt "quirk_fear_of_swine_neg"
 msgid "Swine Fearing"
-msgstr "Боязнь вепрей"
+msgstr "Боязнь свиней"
 
 msgctxt "quirk_fear_of_swine_neg_description"
 msgid "\"The squeals are unbearable!\""
@@ -34272,11 +34272,11 @@ msgstr "«Их визги не вынести!»"
 
 msgctxt "quirk_fear_of_swine_neg+female"
 msgid "Swine Fearing"
-msgstr "Боязнь вепрей"
+msgstr "Боязнь свиней"
 
 msgctxt "quirk_fear_of_swine_neg+male"
 msgid "Swine Fearing"
-msgstr "Боязнь вепрей"
+msgstr "Боязнь свиней"
 
 msgctxt "quirk_field_surgeon_pos"
 msgid "Field Surgeon"
@@ -34652,15 +34652,15 @@ msgstr "Неприятие бандитов"
 
 msgctxt "quirk_hatred_of_swine_pos"
 msgid "Swine Hater"
-msgstr "Неприятие вепрей"
+msgstr "Неприятие свиней"
 
 msgctxt "quirk_hatred_of_swine_pos+female"
 msgid "Swine Hater"
-msgstr "Неприятие вепрей"
+msgstr "Неприятие свиней"
 
 msgctxt "quirk_hatred_of_swine_pos+male"
 msgid "Swine Hater"
-msgstr "Неприятие вепрей"
+msgstr "Неприятие свиней"
 
 msgctxt "quirk_hazard_route_scout_pos"
 msgid "Spotter"
@@ -35756,15 +35756,15 @@ msgstr "Гроза бандитов"
 
 msgctxt "quirk_slayer_of_swine_pos"
 msgid "Swine Slayer"
-msgstr "Гроза вепрей"
+msgstr "Гроза свиней"
 
 msgctxt "quirk_slayer_of_swine_pos+female"
 msgid "Swine Slayer"
-msgstr "Гроза вепрей"
+msgstr "Гроза свиней"
 
 msgctxt "quirk_slayer_of_swine_pos+male"
 msgid "Swine Slayer"
-msgstr "Гроза вепрей"
+msgstr "Гроза свиней"
 
 msgctxt "quirk_slippery_pos"
 msgid "Slippery"
@@ -38270,7 +38270,7 @@ msgstr "Колющий удар"
 
 msgctxt "skill_name_foot_soldier_atrophic_cut"
 msgid "Atrophic Cut"
-msgstr "Удар истощения"
+msgstr "Истощающий удар"
 
 msgctxt "skill_name_foot_soldier_shambling_thrust"
 msgid "Shambling Thrust"
@@ -47472,7 +47472,7 @@ msgstr "Дальний бой"
 
 msgctxt "tag_swine"
 msgid "Swine"
-msgstr "Свин"
+msgstr "Свинья"
 
 msgctxt "target_buff_desc_combo_ignore_30pct_bleed_resist_override"
 msgid "<color=#{buff}>+30%<sprite name={q}icon_bleed{q}> RES Piercing</color> when Target <sprite name={q}token_combo{q}>"
@@ -53582,7 +53582,7 @@ msgstr "Вперёд. К сожалению, другого выбора у н
 
 msgctxt "vo_driving_biome_cave_start_01_0"
 msgid "Tread carefully and quickly. This is swine country."
-msgstr "Осторожность и спешность не будут лишними. Это земля вепрей."
+msgstr "Осторожность и спешность не будут лишними. Это земля свиней."
 
 msgctxt "vo_driving_biome_caves_halfway_01_0"
 msgid "Hidden in warrens and ancient waterways, the swine proliferate unseen and unchecked."
