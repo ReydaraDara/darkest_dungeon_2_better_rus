@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2023-04-02 05:40+0400\n"
+"PO-Revision-Date: 2023-04-02 19:57+0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -1288,7 +1288,7 @@ msgstr "Ты справишься. Будь наготове."
 
 msgctxt "affinity_change_bark_add_buff_participating+jester"
 msgid "Oh, I'll cheer you on if I <i>must.</i>"
-msgstr "Ох, я приподрю тебя, если <i>нужно.</i>"
+msgstr "Ох, я прибодрю тебя, если <i>нужно.</i>"
 
 msgctxt "affinity_change_bark_add_buff_participating+leper"
 msgid "Find strength in the fray, friend."
@@ -1593,7 +1593,7 @@ msgstr "Мы посмотрим кто будет смеяться, когда <
 
 msgctxt "affinity_change_bark_add_token_observing_jealous+leper"
 msgid "The jackal stalks alone."
-msgstr "Шакала охотиться один."
+msgstr "Шакал охотиться один."
 
 msgctxt "affinity_change_bark_add_token_observing_jealous+man_at_arms"
 msgid "You wouldn't know good leadership!"
@@ -6573,7 +6573,7 @@ msgstr "Да, ха-ха-ха!"
 
 msgctxt "bark_act_out_partner_praise_for_friendly_skill+highwayman"
 msgid "Nice."
-msgstr "Чудненько."
+msgstr "Неплохо."
 
 msgctxt "bark_act_out_partner_praise_for_friendly_skill+hopeful"
 msgid "Yes, we can do this - together!"
@@ -17604,7 +17604,7 @@ msgstr "Начало хода: <sprite name={q}token_strength{q}>"
 
 msgctxt "buff_leper_ruin_damage_buff_manager"
 msgid "<color=#{buff}>When damaged, raise own DMG +20%</color>"
-msgstr "<color=#{buff}>Когда получает урон, собств. значение УРН увел. на 20%</color>"
+msgstr "<color=#{buff}>Когда получает урон, собственное значение УРН увеличивается на 20%</color>"
 
 msgctxt "buff_leper_withstand_block"
 msgid "<color=#{buff}>Turn Start:</color> <sprite name={q}token_deflect{q}>"
@@ -28468,7 +28468,7 @@ msgstr ""
 
 msgctxt "item_description_pet_rabbit"
 msgid "<color=#{notable}>+1</color> Max <sprite name=\"icon_health_v2\"> per  <color=#{notable}>4 Food</color> items in inventory</color>"
-msgstr "<color=#{notable}>+1</color> Максимального здоровья за каждые <color=#{notable}>4 предмета</color> 'Еды' в инвентаре."
+msgstr "<color=#{notable}>+1</color> Максимального здоровья за каждые <color=#{notable}>4 предмета 'Еды'</color> в инвентаре."
 
 msgctxt "item_description_pouch_of_lye"
 msgid "Clear all corpses"
@@ -28648,7 +28648,7 @@ msgstr "#BBB9AEFF"
 
 msgctxt "item_max_qty_increase_bundle_label"
 msgid "Increases stacking for <color=#{notable}>{0}</color> by <color=#{notable}>{1}</color> per stack"
-msgstr "На <color=#{notable}>{1}</color> ед. увел. число предм. (<color=#{notable}>{0}</color>), которые можно объед. в одну ячейку"
+msgstr "На <color=#{notable}>{1}</color> единиц увеличивает число предметов (<color=#{notable}>{0}</color>), которые можно объединить в одну ячейку"
 
 msgctxt "item_name_ablative_powders"
 msgid "Ablative Powders"
@@ -49710,7 +49710,7 @@ msgid ""
 msgstr ""
 "У <color=#{harmful}>СНАБДИТЕЛЯ</color> содержится ограниченное число запасов, которые можно приобрести за <color=#{harmful}>РЕЛИКВИИ</color><sprite name={q}icon_relic{q}><sprite name={q}icon-mouse-left{q}>.\n"
 "\n"
-"Товары из ассортимента снабженца меняются каждый раз, когда вы достигаете трактира."
+"Товары из ассортимента снабдителя меняются каждый раз, когда вы достигаете трактира."
 
 msgctxt "tutorial_t1603_texture"
 msgid "t1603"
